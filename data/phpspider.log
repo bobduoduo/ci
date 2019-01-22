@@ -1,0 +1,200 @@
+[31m2018-09-16 19:57:24 [error] No scan url to start[0m
+[33m
+[ 转转客 Spider ] is started...
+
+  * PHPSpider Version: 2.1.5
+  * Documentation: https://doc.phpspider.org
+  * Task Number: 1
+
+Input "php /Users/songyaping/Documents/www/spider/demo/zzk.php stop" to quit. Start success.
+[0m
+[33m
+[ 转转客 Spider ] is started...
+
+  * PHPSpider Version: 2.1.5
+  * Documentation: https://doc.phpspider.org
+  * Task Number: 1
+
+Input "php /Users/songyaping/Documents/www/spider/demo/zzk.php stop" to quit. Start success.
+[0m
+[36m2018-09-16 20:00:02 [debug] Find content page: http://v2.zhuanzke.com/admin/auth/login[0m
+[36m2018-09-16 20:00:02 [debug] Success download page http://v2.zhuanzke.com/admin/auth/login in 0.148 s[0m
+[36m2018-09-16 20:00:02 [debug] Find content page: http://v2.zhuanzke.com/admin/[0m
+2018-09-16 20:00:02 [info] Result[1]: {"token":"yNQ6w4pSntG7wYG5topoDiwA4OQoHhIbhFc7rQFs"}
+[36m2018-09-16 20:00:02 [debug] task id: 1 Success process page http://v2.zhuanzke.com/admin/auth/login in 0.013 s[0m
+2018-09-16 20:00:02 [info] task id: 1 Spider running in 0d 0h 0m 0s
+[36m2018-09-16 20:00:03 [debug] Success download page http://v2.zhuanzke.com/admin/ in 1.451 s[0m
+2018-09-16 20:00:03 [info] Result[2]: {"token":"yNQ6w4pSntG7wYG5topoDiwA4OQoHhIbhFc7rQFs"}
+[36m2018-09-16 20:00:03 [debug] task id: 1 Success process page http://v2.zhuanzke.com/admin/ in 0.005 s[0m
+2018-09-16 20:00:03 [info] task id: 1 Spider running in 0d 0h 0m 1s
+[33m
+[ 转转客 Spider ] is started...
+
+  * PHPSpider Version: 2.1.5
+  * Documentation: https://doc.phpspider.org
+  * Task Number: 1
+
+Input "php /Users/songyaping/Documents/www/phpspider/task/zzk_login.php stop" to quit. Start success.
+[0m
+[36m2018-09-18 09:36:46 [debug] Find content page: http://v2.zhuanzke.com/admin/auth/login[0m
+[36m2018-09-18 09:36:46 [debug] Success download page http://v2.zhuanzke.com/admin/auth/login in 0.136 s[0m
+[36m2018-09-18 09:36:46 [debug] Find content page: http://v2.zhuanzke.com/admin/[0m
+2018-09-18 09:36:46 [info] Result[1]: {"token":"OEpXpN13tzsjJ1mdEhACENWlmpDmRDWLTccbKPpC"}
+[36m2018-09-18 09:36:46 [debug] task id: 1 Success process page http://v2.zhuanzke.com/admin/auth/login in 0.012 s[0m
+2018-09-18 09:36:46 [info] task id: 1 Spider running in 0d 0h 0m 0s
+[36m2018-09-18 09:36:46 [debug] Success download page http://v2.zhuanzke.com/admin/ in 0.084 s[0m
+2018-09-18 09:36:46 [info] Result[2]: {"token":"OEpXpN13tzsjJ1mdEhACENWlmpDmRDWLTccbKPpC"}
+[36m2018-09-18 09:36:46 [debug] task id: 1 Success process page http://v2.zhuanzke.com/admin/ in 0.006 s[0m
+2018-09-18 09:36:46 [info] task id: 1 Spider running in 0d 0h 0m 0s
+[33m
+[ 转转客 Spider ] is started...
+
+  * PHPSpider Version: 2.1.5
+  * Documentation: https://doc.phpspider.org
+  * Task Number: 1
+
+Input "php /Users/songyaping/Documents/www/phpspider/task/zzk_login.php stop" to quit. Start success.
+[0m
+[36m2018-09-18 09:40:50 [debug] Find content page: http://v2.zhuanzke.com/admin/auth/login[0m
+[36m2018-09-18 09:40:50 [debug] Success download page http://v2.zhuanzke.com/admin/auth/login in 0.051 s[0m
+[36m2018-09-18 09:40:50 [debug] Find content page: http://v2.zhuanzke.com/admin/[0m
+2018-09-18 09:40:50 [info] Result[1]: {"token":"u1SHnr00x0GaHUuqdN32AhUd85CWXhWFFHmwqVzQ"}
+[36m2018-09-18 09:40:50 [debug] task id: 1 Success process page http://v2.zhuanzke.com/admin/auth/login in 0.003 s[0m
+2018-09-18 09:40:50 [info] task id: 1 Spider running in 0d 0h 0m 0s
+[36m2018-09-18 09:40:50 [debug] Success download page http://v2.zhuanzke.com/admin/ in 0.082 s[0m
+2018-09-18 09:40:50 [info] Result[2]: {"token":"u1SHnr00x0GaHUuqdN32AhUd85CWXhWFFHmwqVzQ"}
+[36m2018-09-18 09:40:50 [debug] task id: 1 Success process page http://v2.zhuanzke.com/admin/ in 0.005 s[0m
+2018-09-18 09:40:50 [info] task id: 1 Spider running in 0d 0h 0m 0s
+[33m
+[ 转转客 Spider ] is started...
+
+  * PHPSpider Version: 2.1.5
+  * Documentation: https://doc.phpspider.org
+  * Task Number: 1
+
+Input "php /Users/songyaping/Documents/www/phpspider/task/zzk_login.php stop" to quit. Start success.
+[0m
+[36m2018-09-18 09:45:02 [debug] Find content page: http://v2.zhuanzke.com/admin/auth/login[0m
+[36m2018-09-18 09:45:02 [debug] Success download page http://v2.zhuanzke.com/admin/auth/login in 0.147 s[0m
+[36m2018-09-18 09:45:02 [debug] Find content page: http://v2.zhuanzke.com/admin/[0m
+2018-09-18 09:45:02 [info] Result[1]: {"token":"mmuCAp3gWoK3gyn0zxIEzMrkyHrHhwSzZgJthE0o"}
+[36m2018-09-18 09:45:02 [debug] task id: 1 Success process page http://v2.zhuanzke.com/admin/auth/login in 0.006 s[0m
+2018-09-18 09:45:02 [info] task id: 1 Spider running in 0d 0h 0m 0s
+[36m2018-09-18 09:45:02 [debug] Success download page http://v2.zhuanzke.com/admin/ in 0.228 s[0m
+2018-09-18 09:45:02 [info] Result[2]: {"token":"mmuCAp3gWoK3gyn0zxIEzMrkyHrHhwSzZgJthE0o"}
+[36m2018-09-18 09:45:02 [debug] task id: 1 Success process page http://v2.zhuanzke.com/admin/ in 0.005 s[0m
+2018-09-18 09:45:02 [info] task id: 1 Spider running in 0d 0h 0m 0s
+[33m
+[ 转转客 Spider ] is started...
+
+  * PHPSpider Version: 2.1.5
+  * Documentation: https://doc.phpspider.org
+  * Task Number: 1
+
+Input "php /Users/songyaping/Documents/www/phpspider/task/zzk_login.php stop" to quit. Start success.
+[0m
+[36m2018-09-18 09:46:21 [debug] Find content page: http://v2.zhuanzke.com/admin/auth/login[0m
+[36m2018-09-18 09:46:22 [debug] Success download page http://v2.zhuanzke.com/admin/auth/login in 0.191 s[0m
+[36m2018-09-18 09:46:22 [debug] Find content page: http://v2.zhuanzke.com/admin/[0m
+2018-09-18 09:46:22 [info] Result[1]: {"token":"96AojXNQfYwFEgAv13nRbGlsyZavOyiRe0sT2O0Z"}
+[36m2018-09-18 09:46:22 [debug] task id: 1 Success process page http://v2.zhuanzke.com/admin/auth/login in 0.006 s[0m
+2018-09-18 09:46:22 [info] task id: 1 Spider running in 0d 0h 0m 1s
+[36m2018-09-18 09:46:22 [debug] Success download page http://v2.zhuanzke.com/admin/ in 0.086 s[0m
+2018-09-18 09:46:22 [info] Result[2]: {"token":"96AojXNQfYwFEgAv13nRbGlsyZavOyiRe0sT2O0Z"}
+[36m2018-09-18 09:46:22 [debug] task id: 1 Success process page http://v2.zhuanzke.com/admin/ in 0.005 s[0m
+2018-09-18 09:46:22 [info] task id: 1 Spider running in 0d 0h 0m 1s
+[33m
+[ 转转客 Spider ] is started...
+
+  * PHPSpider Version: 2.1.5
+  * Documentation: https://doc.phpspider.org
+  * Task Number: 1
+
+Input "php /Users/songyaping/Documents/www/phpspider/task/zzk_login.php stop" to quit. Start success.
+[0m
+[36m2018-09-18 10:10:06 [debug] Find content page: http://v2.zhuanzke.com/admin/auth/login[0m
+[36m2018-09-18 10:10:07 [debug] Success download page http://v2.zhuanzke.com/admin/auth/login in 0.237 s[0m
+[36m2018-09-18 10:10:07 [debug] Find content page: http://v2.zhuanzke.com/admin/[0m
+2018-09-18 10:10:07 [info] Result[1]: {"token":"b7AspYhCgtzJjm3gDOcNDk63fXfI7uahC6Ysw2lp"}
+[36m2018-09-18 10:10:07 [debug] task id: 1 Success process page http://v2.zhuanzke.com/admin/auth/login in 0.01 s[0m
+2018-09-18 10:10:07 [info] task id: 1 Spider running in 0d 0h 0m 1s
+[36m2018-09-18 10:10:07 [debug] Success download page http://v2.zhuanzke.com/admin/ in 0.361 s[0m
+2018-09-18 10:10:07 [info] Result[2]: {"token":"b7AspYhCgtzJjm3gDOcNDk63fXfI7uahC6Ysw2lp"}
+[36m2018-09-18 10:10:07 [debug] task id: 1 Success process page http://v2.zhuanzke.com/admin/ in 0.005 s[0m
+2018-09-18 10:10:07 [info] task id: 1 Spider running in 0d 0h 0m 1s
+[33m
+[ 转转客 Spider ] is started...
+
+  * PHPSpider Version: 2.1.5
+  * Documentation: https://doc.phpspider.org
+  * Task Number: 1
+
+Input "php /Users/songyaping/Documents/www/phpspider/task/zzk_login.php stop" to quit. Start success.
+[0m
+[36m2018-09-18 10:20:02 [debug] Find content page: http://v2.zhuanzke.com/admin/auth/login[0m
+[36m2018-09-18 10:20:03 [debug] Success download page http://v2.zhuanzke.com/admin/auth/login in 0.093 s[0m
+[36m2018-09-18 10:20:03 [debug] Find content page: http://v2.zhuanzke.com/admin/[0m
+2018-09-18 10:20:03 [info] Result[1]: {"token":"srkAOD0a4GRgxLRGJODV7U5xFlLPMxqZrXXKEPUp"}
+[36m2018-09-18 10:20:03 [debug] task id: 1 Success process page http://v2.zhuanzke.com/admin/auth/login in 0.003 s[0m
+2018-09-18 10:20:03 [info] task id: 1 Spider running in 0d 0h 0m 1s
+[36m2018-09-18 10:20:03 [debug] Success download page http://v2.zhuanzke.com/admin/ in 0.088 s[0m
+2018-09-18 10:20:03 [info] Result[2]: {"token":"srkAOD0a4GRgxLRGJODV7U5xFlLPMxqZrXXKEPUp"}
+[36m2018-09-18 10:20:03 [debug] task id: 1 Success process page http://v2.zhuanzke.com/admin/ in 0.005 s[0m
+2018-09-18 10:20:03 [info] task id: 1 Spider running in 0d 0h 0m 1s
+[33m
+[ 转转客 Spider ] is started...
+
+  * PHPSpider Version: 2.1.5
+  * Documentation: https://doc.phpspider.org
+  * Task Number: 1
+
+Input "php /Users/songyaping/Documents/www/phpspider/task/zzk_login.php stop" to quit. Start success.
+[0m
+[36m2018-09-18 10:23:49 [debug] Find content page: http://v2.zhuanzke.com/admin/auth/login[0m
+[36m2018-09-18 10:23:50 [debug] Success download page http://v2.zhuanzke.com/admin/auth/login in 0.196 s[0m
+[36m2018-09-18 10:23:50 [debug] Find content page: http://v2.zhuanzke.com/admin/[0m
+2018-09-18 10:23:50 [info] Result[1]: {"token":"Gm9NUe1LgBwRN2c21KECf0ar5Z2j7yF3pFlRwcqi"}
+[36m2018-09-18 10:23:50 [debug] task id: 1 Success process page http://v2.zhuanzke.com/admin/auth/login in 0.006 s[0m
+2018-09-18 10:23:50 [info] task id: 1 Spider running in 0d 0h 0m 1s
+[36m2018-09-18 10:23:50 [debug] Success download page http://v2.zhuanzke.com/admin/ in 0.086 s[0m
+2018-09-18 10:23:50 [info] Result[2]: {"token":"Gm9NUe1LgBwRN2c21KECf0ar5Z2j7yF3pFlRwcqi"}
+[36m2018-09-18 10:23:50 [debug] task id: 1 Success process page http://v2.zhuanzke.com/admin/ in 0.005 s[0m
+2018-09-18 10:23:50 [info] task id: 1 Spider running in 0d 0h 0m 1s
+[33m
+[ 转转客 Spider ] is started...
+
+  * PHPSpider Version: 2.1.5
+  * Documentation: https://doc.phpspider.org
+  * Task Number: 1
+
+Input "php /Users/songyaping/Documents/www/phpspider/task/zzk_login.php stop" to quit. Start success.
+[0m
+[36m2018-09-18 10:52:34 [debug] Find content page: http://v2.zhuanzke.com/admin/auth/login[0m
+[36m2018-09-18 10:52:34 [debug] Success download page http://v2.zhuanzke.com/admin/auth/login in 0.052 s[0m
+[36m2018-09-18 10:52:34 [debug] Find content page: http://v2.zhuanzke.com/admin/[0m
+2018-09-18 10:52:34 [info] Result[1]: {"token":"sQtPvhOqRpRHddUmqz773dQ4NTS3nVGEa7zHOsWV"}
+[36m2018-09-18 10:52:34 [debug] task id: 1 Success process page http://v2.zhuanzke.com/admin/auth/login in 0.005 s[0m
+2018-09-18 10:52:34 [info] task id: 1 Spider running in 0d 0h 0m 0s
+[36m2018-09-18 10:52:34 [debug] Success download page http://v2.zhuanzke.com/admin/ in 0.083 s[0m
+2018-09-18 10:52:34 [info] Result[2]: {"token":"sQtPvhOqRpRHddUmqz773dQ4NTS3nVGEa7zHOsWV"}
+[36m2018-09-18 10:52:34 [debug] task id: 1 Success process page http://v2.zhuanzke.com/admin/ in 0.005 s[0m
+2018-09-18 10:52:34 [info] task id: 1 Spider running in 0d 0h 0m 0s
+[33m
+[ 转转客 Spider ] is started...
+
+  * PHPSpider Version: 2.1.5
+  * Documentation: https://doc.phpspider.org
+  * Task Number: 1
+
+Input "php /Users/songyaping/Documents/www/phpspider/task/zzk_login.php stop" to quit. Start success.
+[0m
+[36m2018-09-18 11:07:17 [debug] Find content page: http://v2.zhuanzke.com/admin/auth/login[0m
+[36m2018-09-18 11:07:17 [debug] Success download page http://v2.zhuanzke.com/admin/auth/login in 0.138 s[0m
+[36m2018-09-18 11:07:17 [debug] Find content page: http://v2.zhuanzke.com/admin/[0m
+2018-09-18 11:07:17 [info] Result[1]: {"token":"3EEdOOh2RmKm5xJZgL6JOMk2HYDtLwsm8oGnP61T"}
+[36m2018-09-18 11:07:17 [debug] task id: 1 Success process page http://v2.zhuanzke.com/admin/auth/login in 0.008 s[0m
+2018-09-18 11:07:17 [info] task id: 1 Spider running in 0d 0h 0m 0s
+[36m2018-09-18 11:07:17 [debug] Success download page http://v2.zhuanzke.com/admin/ in 0.082 s[0m
+2018-09-18 11:07:17 [info] Result[2]: {"token":"3EEdOOh2RmKm5xJZgL6JOMk2HYDtLwsm8oGnP61T"}
+[36m2018-09-18 11:07:17 [debug] task id: 1 Success process page http://v2.zhuanzke.com/admin/ in 0.006 s[0m
+2018-09-18 11:07:17 [info] task id: 1 Spider running in 0d 0h 0m 0s
