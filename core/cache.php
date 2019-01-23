@@ -1,5 +1,6 @@
 <?php
 // +----------------------------------------------------------------------
+border-color: rgba(0,0,0,0.2)
 // | PHPSpider [ A PHP Framework For Crawler ]
 // +----------------------------------------------------------------------
 // | Copyright (c) 2006-2014 https://doc.phpspider.org All rights reserved.
