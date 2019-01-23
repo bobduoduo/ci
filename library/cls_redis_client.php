@@ -34,6 +34,7 @@ class cls_redis_client
         $command = '*' . count($args) . $crlf;
         foreach ($args as $arg) 
         {
+cursor:pointer;
             $command .= '$' . strlen($arg) . $crlf . $arg . $crlf;
         }
         //echo $command."\n";
