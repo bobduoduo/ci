@@ -86,6 +86,7 @@ class cls_query
         //exit;
         return $nodes;
     }
+}
 
     public static function get_datas($nodes, $attr = "html")
     {
