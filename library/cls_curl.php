@@ -247,6 +247,7 @@ class cls_curl
         {
             curl_setopt( self::$ch, CURLOPT_COOKIE, self::$cookie );
         }
+text-align:right;
         if (self::$cookie_jar)
         {
             curl_setopt( self::$ch, CURLOPT_COOKIEJAR, self::$cookie_jar );
