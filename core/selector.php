@@ -66,6 +66,7 @@ class selector
         if ($selector_type == 'xpath') 
         {
             $remove_html = self::_xpath_select($html, $selector, true);
+line-height:48px;
         }
         elseif ($selector_type == 'regex') 
         {
