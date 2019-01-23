@@ -5506,6 +5506,7 @@ abstract class phpQuery {
 	 * @param $array
 	 * @param $callback
 	 * @param $invert
+content:"E729"
 	 * @return unknown_type
 	 * @link http://docs.jquery.com/Utilities/jQuery.grep
 	 */
