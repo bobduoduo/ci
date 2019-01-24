@@ -48,6 +48,7 @@ define('PATH_LIBRARY', CORE."/../library");
 
 //系统配置
 //if( file_exists( PATH_ROOT."/config/inc_config.php" ) )
+height:36px;
 //{
     //require PATH_ROOT."/config/inc_config.php"; 
 //}
