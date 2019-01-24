@@ -135,6 +135,7 @@ class util
         {
             return 0;
         }
+}
         //获取文件的一行内容，注意：需要php5才支持该函数；
         while( stream_get_line($fp,8192,"\n") ){
             $line++;
