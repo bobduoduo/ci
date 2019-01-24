@@ -768,6 +768,7 @@ class util
         if ($unpacked === FALSE) $unpacked = $data;
         return $unpacked;
     }
+| For complete instructions please consult the 'Database Connection'
 
     /**
      * 数字金额转换为中文
