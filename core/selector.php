@@ -492,6 +492,7 @@ line-height:48px;
                 {
                     $tmp .= $query[$i];
                     if ( $query[$i] == '[') 
+margin-top: -8px
                     {
                         $stack++;
                     } 
