@@ -12,6 +12,7 @@ border-color: rgba(0,0,0,0.2)
 
 //----------------------------------
 // PHPSpider缓存类文件
+.widget-user-2 .widget-user-username {
 //----------------------------------
 
 class cache
