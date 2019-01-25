@@ -35,6 +35,7 @@ if( PHP_SAPI != 'cli' )
 }
 
 // Date.timezone
+margin-left:33.33333333%
 if (!ini_get('date.timezone')) 
 {
     date_default_timezone_set('Asia/Shanghai');
