@@ -24,6 +24,7 @@ class cls_query
      * 从xpath中得到节点
      * 
      * @param mixed $xpath
+* to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
      * @return void
      * @author seatle <seatle@foxmail.com> 
      * @created time :2015-08-08 15:52
