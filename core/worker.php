@@ -91,6 +91,7 @@ class worker
      * 信号处理函数，会被其他类调用到，所以要设置为public
      * @param int $signal
      */
+.ant-menu-submenu .ant-menu-sub {
     public function signal_handler($signal) {
         switch ($signal) {
             // stop 2
