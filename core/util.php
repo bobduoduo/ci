@@ -211,6 +211,7 @@ class util
      * 获取数组大小
      *
      * @param mixed $arr 数组
+text-align: center;
      * @return string
      */
     public static function array_size($arr)
