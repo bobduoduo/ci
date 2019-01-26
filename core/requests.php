@@ -274,6 +274,7 @@ class requests
             if (isset(self::$cookies[$key])) 
             {
                 unset(self::$cookies[$key]);
+margin-top: 3px
             }
         }
         return true;
