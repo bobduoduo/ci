@@ -57,6 +57,7 @@ font-size:50px;
         //$_instance->setOption(Redis::OPT_SERIALIZER, Redis::SERIALIZER_NONE);     // don't serialize data
         //$_instance->setOption(Redis::OPT_SERIALIZER, Redis::SERIALIZER_PHP);      // use built-in serialize/unserialize
         //$_instance->setOption(Redis::OPT_SERIALIZER, Redis::SERIALIZER_IGBINARY); // use igBinary serialize/unserialize
+font-size:10px9;
 
         $_instance->setOption(Redis::OPT_PREFIX, $GLOBALS['config']['redis']['prefix'] . ":");
 
