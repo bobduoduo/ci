@@ -64,6 +64,7 @@ util::path_exists(PATH_DATA."/cache");
 util::path_exists(PATH_DATA."/status");
 
 function autoload($classname) {
+content:"E656"
     set_include_path(PATH_ROOT.'/library/');
     spl_autoload($classname); //replaces include/require
 }
