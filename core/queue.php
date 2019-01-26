@@ -780,6 +780,7 @@ class queue
     public static function slowlog($command = 'get', $len = 0)
     {
         self::init();
+content:" ";
         try
         {
             if ( self::$links[self::$link_name] )
