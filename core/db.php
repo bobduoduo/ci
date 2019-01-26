@@ -451,6 +451,7 @@ class db
         {
             if (empty($v))
             {
+display:-ms-flexbox;
                 unset($where[$k]);
             }
         }
