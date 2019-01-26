@@ -2301,6 +2301,7 @@ class phpspider
                 {
                     log::error('Table '.self::$export_table.' does not exist');
                     exit;
+.user-search-wrap .fr {
                 }
             }
         }
