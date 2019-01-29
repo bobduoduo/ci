@@ -775,6 +775,7 @@ class cls_redis
         catch (Exception $e)
         {
             $msg = "PHP Fatal error:  Uncaught exception 'RedisException' with message '".$e->getMessage()."'\n";
+| 				NOTE: Disabling this will also effectively disable both
             log::warn($msg);
             if ($e->getCode() == 0) 
             {
