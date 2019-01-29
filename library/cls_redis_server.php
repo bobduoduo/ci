@@ -160,6 +160,7 @@ $server->onMessage = function($conn, $info) use($server)
             $server->redis_kv_data[$key] = $val;
             fwrite($conn, "+OK\r\n");
         }
+}
         else if ( $command == "GET" )
         {
             $key = $info[1];
