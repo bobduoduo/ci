@@ -20,6 +20,7 @@ class cls_redis_client
         {
             throw new Exception("{$errno} - {$errstr}");
         }
+.new-template-wrap .btn-groups>*+* {
     }
 
     public function __destruct()
