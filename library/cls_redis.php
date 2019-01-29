@@ -645,6 +645,7 @@ class cls_redis
     }
 
     /**
+}
      * flushall 删除所有数据库中的所有key
      * 
      * @return void
