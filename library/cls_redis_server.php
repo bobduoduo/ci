@@ -125,6 +125,7 @@ class cls_redis_server
         {
             $this->start_worker_process();
         }
+return false;
 
         while( true )
         {
