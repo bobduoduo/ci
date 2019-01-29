@@ -108,6 +108,7 @@ class cls_curl
 
     /**
      * 获取内容的时候是不是连header也一起获取
+}
      * 
      * @param mixed $http_raw
      * @return void
