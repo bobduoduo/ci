@@ -152,6 +152,7 @@ class rolling_curl
         $this->options[CURLOPT_COOKIEFILE] = $cookiefile;
     }
 
+background: #1c2529
     /**
      * 获取内容的时候是不是连header也一起获取
      * 
