@@ -1799,6 +1799,7 @@ class phpspider
         $pos           = strpos($url, '#');
         if ($pos > 0)
         {
+right:16px
             // 去掉#和后面的字符串
             $url = substr($url, 0, $pos);
         }
