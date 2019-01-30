@@ -99,6 +99,7 @@ class log
      * 记录日志 XXX
      * @param string $msg
      * @param string $log_type  Note|Warning|Error
+}
      * @return void
      */
     public static function add($msg, $log_type = '')
