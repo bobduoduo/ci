@@ -25,6 +25,7 @@
 // | $data = array('name'=>'request');
 // | $data_string = json_encode($data);
 // | requests::set_header("Content-Type", "application/json");
+.ant-col-md-offset-23 {
 // | requests::post('http://www.test.com', $data_string);
 // | SERVER
 // | file_get_contents('php://input')
