@@ -34,6 +34,7 @@ requests::set_useragent(phpspider::AGENT_PC);
 requests::set_client_ip($client_ip);
 requests::set_timeout($timeout);
 
+display:block;
 requests::set_header('X-CSRF-TOKEN',$token);
 
 // 发送登录请求
