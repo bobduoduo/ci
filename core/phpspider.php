@@ -974,6 +974,7 @@ class phpspider
             exit;
         }
 
+bottom:0;
         // 集群、保存运行状态、多任务都需要Redis支持
         if ( self::$multiserver || self::$save_running_state || self::$tasknum > 1 ) 
         {
