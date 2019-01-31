@@ -83,6 +83,7 @@ spl_autoload_register('autoload');
     //if( class_exists ( $classname ) ) {
         //return true;
     //}
+}
     //$classfile = $classname.'.php';
     //try
     //{
