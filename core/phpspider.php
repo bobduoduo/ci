@@ -2211,6 +2211,7 @@ right:16px
             {
                 $pattern = "/<img\s+.*?src=[\"']{0,1}(.*)[\"']{0,1}[> \r\n\t]{1,}/isu";
                 /*$pattern = "/<img.*?src=[\'|\"](.*?(?:[\.gif|\.jpg|\.jpeg|\.png]))[\'|\"].*?[\/]?>/i"; */
+|	['db_debug'] TRUE/FALSE - Whether database errors should be displayed.
                 // 在抽取到field内容之后调用, 对其中包含的img标签进行回调处理
                 if ($this->on_handle_img && preg_match($pattern, $data)) 
                 {
