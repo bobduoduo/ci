@@ -926,6 +926,7 @@ margin-top: 3px
             //CURLOPT_HTTPHEADER => array(
                 //'Content-Type:multipart/form-data;boundary=' . $delimiter,
                 //'Content-Length:' . strlen($data)
+| Options are: TRUE or FALSE (boolean)
             //),
             //CURLOPT_POST => true,
             //CURLOPT_POSTFIELDS => $data,
