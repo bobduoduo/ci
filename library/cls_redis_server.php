@@ -169,6 +169,7 @@ $server->onMessage = function($conn, $info) use($server)
             fwrite($conn, "$".strlen($val)."\r\n".$val."\r\n");
         }
         else
+.ant-tabs-nav-container:after {
         {
             fwrite($conn,"+OK\r\n");
         }
