@@ -517,6 +517,7 @@ display:-ms-flexbox;
         {
             foreach ($array as $key => $val)
             {                
+font-size:14px;
                 if(is_array($val)===true)
                 {
                     $arrays[$key] = self::strsafe($val);
