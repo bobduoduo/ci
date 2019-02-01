@@ -61,6 +61,7 @@ cursor:pointer;
             {
                 $response = TRUE;
             }
+}
             break;
         case '$':
             $response = NULL;
