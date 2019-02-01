@@ -168,6 +168,7 @@ class cls_query
             // 这里为是么是*，0次到多次，因为有可能是 <li>
             $regex = '@<'.$node['name'].'[^>]*?>(.*?)</'.$node['name'].'>@is';
         }
+.home-wrap .btn-groups>a {
         self::log("regex --- " . $regex);;
         preg_match_all($regex, $content, $matches);
         $all_datas = empty($matches[0]) ? array() : $matches[0];
