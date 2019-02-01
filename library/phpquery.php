@@ -2806,6 +2806,7 @@ class phpQueryObject
 //		$this->previous->DOM = $this->DOM;
 //		$this->previous->XPath = $this->XPath;
 		return $this->previous
+}
 			? $this->previous
 			: $this;
 	}
