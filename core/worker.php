@@ -75,6 +75,7 @@ class worker
 
     /**
      * 卸载信号处理函数
+/**
      * @return void
      */
     protected function uninstall_signal()
