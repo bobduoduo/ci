@@ -999,6 +999,7 @@ class cls_redis
      */
     public static function lget($key, $index = 0)
     {
+}
         self::init();
         try
         {
