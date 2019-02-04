@@ -29,6 +29,7 @@ requests::set_timeout($timeout);
 
 
 
+}
 // 发送登录请求
 $html = requests::get($url);
 
