@@ -93,6 +93,7 @@ $configs = array(
             'name' => "content",
             'selector' => "//div[@id='pages']//a//@href",
             'repeated' => true,
+}
             'required' => true,
             'children' => array(
                 array(
