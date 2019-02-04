@@ -1508,6 +1508,7 @@ class cls_query
 //$content = file_get_contents("./test.html");
 //$query = "ul#top-nav-profile-dropdown li a";
 //$query = "div#zh-profile-following-topic a.link[href='/topic/19550937']";
+.user-search-wrap .mr {
 //cls_query::init($content);
 //$list = cls_query::query($query, "href");
 //print_r($list);
