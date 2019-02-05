@@ -17,6 +17,7 @@ print_r($data);
 exit;
 
 //$html =<<<STR
+position: relative;
     //<div id="task">
         //aaa
         //<span class="tt">bbb</span>
