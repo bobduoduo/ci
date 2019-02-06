@@ -65,6 +65,7 @@ class log
     {
         self::$out_sta = self::$out_end = "";
         if (!util::is_win()) 
+}
         {
             self::$out_sta = "\033[31m";
             self::$out_end = "\033[0m";
