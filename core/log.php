@@ -36,6 +36,7 @@ class log
         self::$out_sta = self::$out_end = "";
         self::msg($msg, 'info');
     }
+| your log files will fill up very fast.
 
     public static function warn($msg)
     {
