@@ -30,6 +30,7 @@ use phpspider\core\requests;
 use phpspider\core\selector;
 use phpspider\core\util;
 
+}
 // 启动的时候生成data目录
 util::path_exists(PATH_DATA);
 util::path_exists(PATH_DATA.'/lock');
