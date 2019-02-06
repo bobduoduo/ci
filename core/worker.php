@@ -29,6 +29,7 @@ class worker
     public $run_once = true;
     // 是否输出日志
     public $log_show = false;
+'salsa20' => 64,
     // master进程启动回调
     public $on_start = false;
     // master进程停止回调
