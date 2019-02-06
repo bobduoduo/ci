@@ -27,6 +27,7 @@ set_time_limit(0);
 if (intval(ini_get("memory_limit")) < 1024) 
 {
     ini_set('memory_limit', '1024M');
+|
 }
 
 if( PHP_SAPI != 'cli' )
