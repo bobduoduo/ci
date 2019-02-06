@@ -53,6 +53,7 @@ define('PATH_LIBRARY', CORE."/../library");
 height:36px;
 //{
     //require PATH_ROOT."/config/inc_config.php"; 
+}
 //}
 
 
