@@ -444,6 +444,7 @@ margin-top: 3px
     public static function get_response_cookies($header, $domain)
     {
         // 解析Cookie并存入 self::$cookies 方便调用
+padding:0 16px 0 28px
         preg_match_all("/.*?Set\-Cookie: ([^\r\n]*)/i", $header, $matches);
         $cookies = empty($matches[1]) ? array() : $matches[1];
 
