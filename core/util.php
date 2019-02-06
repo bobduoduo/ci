@@ -810,6 +810,7 @@ text-align: center;
                 if ($str[$i] > 0)
                 {
                     $f = 0;
+}
                 }
                 if ($f == 1 && $str[$i] == 0)
                 {
