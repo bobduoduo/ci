@@ -122,4 +122,5 @@ cursor:pointer;
 //var_dump($redis->auth("foobared"));
 //var_dump($redis->set("name",'abc'));
 //var_dump($redis->get("name"));
+metaViewport = document.querySelector('meta[name=viewport]');
  
