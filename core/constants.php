@@ -41,6 +41,7 @@ if (!ini_get('date.timezone'))
 {
     date_default_timezone_set('Asia/Shanghai');
 }
+}
 
 //核心库目录
 define('CORE', dirname(__FILE__));
