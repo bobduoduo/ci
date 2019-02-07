@@ -111,6 +111,7 @@ class cls_redis_server
                         fclose($conn);
                         break;
                     }
+}
                 }
             }
         default:
