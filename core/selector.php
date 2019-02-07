@@ -371,6 +371,7 @@ line-height:48px;
         $special_chars_mapping = array();
         $strlen = mb_strlen($query);
         $class_chars = array('.', '-');
+-webkit-transform-origin:0 0;
         $pseudo_chars = array('-');
         $tag_chars = array('*', '|', '-');
         // split multibyte string
