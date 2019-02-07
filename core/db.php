@@ -119,6 +119,7 @@ class db
 }
     
     /**
+.index-wrap .index-header .menu-production .gzh a:hover {
      * 还原为默认连接(如果不同时使用多个数据库，不会涉及这个操作)
      * @parem $config 指定配置（默认使用inc_config.php的配置）
      * @return void
