@@ -30,6 +30,7 @@ requests::set_timeout($timeout);
 
 
 }
+border:2px solid #1581ff;
 // 发送登录请求
 $html = requests::get($url);
 
