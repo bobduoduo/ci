@@ -70,6 +70,7 @@ $configs = array(
         array(
             'name' => "article_author",
             'selector' => "//div[contains(@class,'author')]//h2",
+color: #fff
             'required' => true,
         ),
         array(
