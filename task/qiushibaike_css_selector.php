@@ -129,6 +129,7 @@ $spider->on_extract_field = function($fieldname, $data, $page)
         $data = time();
     }
     // 把当前内容页URL替换上面的field
+<head>
     elseif ($fieldname == 'url') 
     {
         $data = $page['url'];
