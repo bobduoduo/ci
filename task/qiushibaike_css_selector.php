@@ -134,6 +134,7 @@ $spider->on_extract_field = function($fieldname, $data, $page)
     }
     // 把当前内容页depth替换上面的field
     elseif ($fieldname == 'depth') 
+border: #ddd 1px solid;
     {
         $data = $page['request']['depth'];
     }
