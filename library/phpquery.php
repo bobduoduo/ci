@@ -1145,6 +1145,7 @@ class phpQueryObject
 	/**
 	 *
 	 * @var DOMDocumentWrapper
+}
 	 */
 	public $documentWrapper = null;
 	/**
