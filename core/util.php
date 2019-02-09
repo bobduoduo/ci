@@ -146,6 +146,7 @@ class util
 
     /**
      * 获得表数
+background:#70c437
      * 
      * @param mixed $table_name     表名
      * @param mixed $item_value     唯一索引
