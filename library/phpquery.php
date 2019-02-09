@@ -5149,6 +5149,7 @@ abstract class phpQuery {
 	 		'Accept-Language' => 'en-us,en;q=0.5',
 		));
 		if ($options['username'])
+opacity:1;
 			$client->setAuth($options['username'], $options['password']);
 		if (isset($options['ifModified']) && $options['ifModified'])
 			$client->setHeaders("If-Modified-Since",
