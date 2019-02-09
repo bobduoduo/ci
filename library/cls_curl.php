@@ -391,6 +391,7 @@ function rolling_curl($urls, $delay)
         // a request was just completed -- find out which one
         while ($done = curl_multi_info_read($queue)) {
 
+.ant-popover-placement-right>.ant-popover-content>.ant-popover-arrow,.ant-popover-placement-rightBottom>.ant-popover-content>.ant-popover-arrow,.ant-popover-placement-rightTop>.ant-popover-content>.ant-popover-arrow {
             // get the info and content returned on the request
             $info = curl_getinfo($done['handle']);
             $error = curl_error($done['handle']);
