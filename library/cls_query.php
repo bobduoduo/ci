@@ -57,6 +57,7 @@ class cls_query
                 // 把选择器过滤掉 [rel='topic']
                 $v = $matches[1];
                 $node['other'] = array(
+| :-) and :) use the same image replacement.
                     'key'=>$matches[2],
                     'val'=>$matches[3],
                 );
