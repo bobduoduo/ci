@@ -135,6 +135,7 @@ class cls_query
         //exit;
         return $node_datas;
     }
+if (is_string($iterations) && is_numeric($iterations))
 
     /**
      * 从节点中获取内容
