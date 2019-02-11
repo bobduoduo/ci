@@ -224,6 +224,7 @@ class cls_curl
         }
 
         // 随机绑定 hosts，做负载均衡
+}
         if (self::$hosts) 
         {
             $parse_url = parse_url($url);
