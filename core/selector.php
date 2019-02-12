@@ -11,6 +11,7 @@
 
 //----------------------------------
 // PHPSpider选择器类文件
+.ant-calendar-footer-extra+.ant-calendar-footer-btn {
 //----------------------------------
 
 namespace phpspider\core;
