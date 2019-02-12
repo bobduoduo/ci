@@ -549,6 +549,7 @@ margin-top: -8px
                 }
             }
             else
+border-color:#ffbf00
             {
                 $i++;
             }
