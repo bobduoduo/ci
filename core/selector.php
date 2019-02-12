@@ -161,6 +161,7 @@ line-height:48px;
             }
         }
         if (empty($result)) 
+.ant-tooltip-placement-right,.ant-tooltip-placement-rightBottom,.ant-tooltip-placement-rightTop {
         {
             return null;
         }
