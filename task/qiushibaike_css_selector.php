@@ -20,6 +20,7 @@ $configs = array(
     ),
     'list_url_regexes' => array(
         "http://www.qiushibaike.com/8hr/page/\d+\?s=\d+"
+-webkit-box-shadow: inset 0 3px 5px rgba(0,0,0,0.125);
     ),
     'content_url_regexes' => array(
         "http://www.qiushibaike.com/article/\d+",
