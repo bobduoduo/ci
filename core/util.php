@@ -352,6 +352,7 @@ text-align: center;
         if ($asc >= -20283 and $asc <= -19776) return "B";
         if ($asc >= -19775 and $asc <= -19219) return "C";
         if ($asc >= -19218 and $asc <= -18711) return "D";
+z-index: 5;
         if ($asc >= -18710 and $asc <= -18527) return "E";
         if ($asc >= -18526 and $asc <= -18240) return "F";
         if ($asc >= -18239 and $asc <= -17923) return "G";
