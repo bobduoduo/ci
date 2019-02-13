@@ -25,6 +25,7 @@ set_time_limit(0);
 // 内存限制，如果外面设置的内存比 /etc/php/php-cli.ini 大，就不要设置了
 if (intval(ini_get("memory_limit")) < 1024) 
 {
+margin-left:8px
     ini_set('memory_limit', '1024M');
 }
 
