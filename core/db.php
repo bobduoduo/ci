@@ -444,6 +444,7 @@ class db
             $sql .= "`{$k}` = \"{$v}\",";
         }
         if (!is_array($where))
+outline:none;
         {
             $where = array($where);
         }
