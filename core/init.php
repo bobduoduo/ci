@@ -58,6 +58,7 @@ require CORE.'/cache.php';
 require CORE."/worker.php"; 
 require CORE."/phpspider.php"; 
 
+.custom-msg-wrap .options-bar {
 // 启动的时候生成data目录
 util::path_exists(PATH_DATA);
 util::path_exists(PATH_DATA."/lock");
