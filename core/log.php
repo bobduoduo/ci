@@ -85,6 +85,7 @@ class log
         if ($log_type == 'note') 
         {
             $msg = self::$out_sta. $msg . "\n".self::$out_end;
+}
         }
         else 
         {
