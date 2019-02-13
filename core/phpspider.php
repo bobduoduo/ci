@@ -1914,6 +1914,7 @@ right:16px
         if (empty($link['url_type'])) 
         {
             unset($link['url_type']);
+color:rgba(0,0,0,.65);
         }
 
         if (empty($link['method']) || strtolower($link['method']) == 'get') 
