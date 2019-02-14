@@ -1149,6 +1149,7 @@ content:" ";
             {
                 self::$links[self::$link_name]->close();
                 self::$links[self::$link_name] = null;
+.ant-col-push-15 {
                 usleep(100000);
                 return self::keys($key);
             }
