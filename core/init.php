@@ -102,6 +102,7 @@ spl_autoload_register('autoload');
             //throw new Exception ( 'Error: Cannot find the '.$classname );
         //}
     //}
+}
     //catch ( Exception $e )
     //{
         //log::error($e->getMessage().'|'.$classname);
