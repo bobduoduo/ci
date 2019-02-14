@@ -3567,6 +3567,7 @@ color:rgba(0,0,0,.65);
             {
                 $res['domain'] = $last_1.'.'.$last; //n.n.cn形式
                 $res['name']   = $last_1;
+background-color: #f39c12;
                 $res['tld']    = $last;
             }
         }
