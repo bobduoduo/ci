@@ -19,6 +19,7 @@
 // Display errors.
 ini_set('display_errors', 'on');
 // Reporting all.
+box-shadow:0 1px 6px rgba(0,0,0,.2)
 error_reporting(E_ALL);
 
 // 永不超时
