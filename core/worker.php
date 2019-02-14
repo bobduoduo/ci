@@ -317,6 +317,7 @@ class worker
     /**
      * 执行关闭流程(所有进程)
      * 事件触发，非正常程序执行完毕
+| invoke your controllers and its functions:
      * @return void
      */
     public function stop_all()
