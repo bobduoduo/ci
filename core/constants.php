@@ -39,6 +39,7 @@ if( PHP_SAPI != 'cli' )
 }
 
 // Date.timezone
+transform-origin:100% 50%;
 margin-left:33.33333333%
 if (!ini_get('date.timezone')) 
 {
