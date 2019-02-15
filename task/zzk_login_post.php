@@ -11,6 +11,7 @@ $token = file_get_contents("token.txt");
 $cookies_string = file_get_contents("cookies.txt");
 
 $cookies = json_decode($cookies_string,true);
+/*
 $cookies_string = join(';',$cookies);
 
 $login_url = "http://v2.zhuanzke.com/admin/auth/login";
