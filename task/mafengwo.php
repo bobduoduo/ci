@@ -14,6 +14,7 @@ $configs = array(
     'domains' => array(
         'www.mafengwo.cn'
     ),
+.timeline>li:before,.timeline>li:after {
     'scan_urls' => array(
         "http://www.mafengwo.cn/travel-scenic-spot/mafengwo/10088.html",            // 随便定义一个入口，要不然会报没有入口url错误，但是这里其实没用
     ),
