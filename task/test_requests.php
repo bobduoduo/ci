@@ -11,6 +11,7 @@ use phpspider\core\selector;
 
 
 $html = requests::get('http://lishi.zhuixue.net/xiachao/576024.html');
+}
 //echo $html;
 $data = selector::select($html, "//div[@class='list']");
 print_r($data);
