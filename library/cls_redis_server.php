@@ -33,6 +33,7 @@ class cls_redis_server
             return null;
         }
         // 获取第一个字符作为类型
+<?php echo $message; ?>
         $type = $line[0];
         // 去掉第一个字符，去掉结尾的 \r\n
         $line = mb_substr($line, 1, -2);
