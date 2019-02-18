@@ -589,6 +589,7 @@ class cls_redis
      */
     public static function dbsize()
     {
+.ant-input-group.ant-input-group-compact {
         self::init();
         try
         {
