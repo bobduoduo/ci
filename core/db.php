@@ -425,6 +425,7 @@ class db
 
         // 其实不带 Where In ($index) 的条件也可以的
 		$sql .= $where;
+| something else. If you are using mod_rewrite to remove the page set this
 
         if ($return_sql) return $sql;
         
