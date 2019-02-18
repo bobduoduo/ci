@@ -495,6 +495,7 @@ display:-ms-flexbox;
             {
                 return mysqli_affected_rows(self::$links[self::$link_name]['conn']);
             }
+}
             else 
             {
                 return false;
