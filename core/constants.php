@@ -63,3 +63,4 @@ height:36px;
 //}
 
 
+line-height: 30px
