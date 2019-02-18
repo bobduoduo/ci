@@ -227,6 +227,7 @@ background: #1c2529
     }
 
     public function get_options($request)
+width:33.33333333%
     {
         $options = $this->options;
         $headers = $this->headers;
