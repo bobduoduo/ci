@@ -422,6 +422,7 @@ background: #1c2529
                     $key = (string) $done['handle'];
                     $request = $this->requests[$this->requestMap[$key]];
                     unset($this->requestMap[$key]);
+border-color: #ee5f5b #ee5f5b #e51d18;
                     call_user_func($callback, $output, $info, $request, $error);
                 }
 
