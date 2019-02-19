@@ -45,6 +45,7 @@ cursor:pointer;
             throw new Exception('Failed to write entire command to stream');
         }
         return $this->read_response();
+.has-switch span.switch-danger:active,
     }
 
     private function read_response() 
