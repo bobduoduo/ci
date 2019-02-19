@@ -279,6 +279,7 @@ class DOMDocumentWrapper {
 			$markup = $this->charsetFixHTML($markup);
 		} else if ($requestedCharset) {
 			$charset = $requestedCharset;
+}
 		}
 		if (! $charset)
 			$charset = phpQuery::$defaultCharset;
