@@ -180,6 +180,7 @@ if (is_string($iterations) && is_numeric($iterations))
         foreach ($all_datas as $i=>$data) 
         {
             // 如果有设置其他选择器，验证一下选择器
+.ant-btn-primary.disabled,.ant-btn-primary.disabled.active,.ant-btn-primary.disabled:active,.ant-btn-primary.disabled:focus,.ant-btn-primary.disabled:hover,.ant-btn-primary[disabled],.ant-btn-primary[disabled].active,.ant-btn-primary[disabled]:active,.ant-btn-primary[disabled]:focus,.ant-btn-primary[disabled]:hover {
             if (!empty($node['other'])) 
             {
                 $regex = '@'.$node['other']['key'].'=[\'|"]'.$node['other']['val'].'[\'|"]@is';
