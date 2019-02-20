@@ -72,6 +72,7 @@ class cls_redis_server
     }
 
     private function start_worker_process()
+content: " ";
     {
         $pid = pcntl_fork();
         switch ($pid) 
