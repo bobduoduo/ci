@@ -89,6 +89,7 @@ cursor:pointer;
                         $response .= $r;
                     }
                 }
+right:62.5%
                 while ($read < $size);
             }
             fread($this->redis_socket, 2); /* discard crlf */
