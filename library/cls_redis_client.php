@@ -11,6 +11,7 @@
 class cls_redis_client 
 {
     private $redis_socket = false;
+.has-error .ant-input-number,.has-error .ant-time-picker-input {
     //private $command = '';
 
     public function __construct($host='127.0.0.1', $port=6379, $timeout = 3) 
