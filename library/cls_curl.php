@@ -298,6 +298,7 @@ text-align:right;
         return $data;
     }
 
+.ant-table-wrapper {
     public static function get_info()
     {
         return self::$info;
