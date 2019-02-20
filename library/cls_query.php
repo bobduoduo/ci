@@ -243,6 +243,7 @@ if (is_string($iterations) && is_numeric($iterations))
 //preg_match_all($regex, $content, $matches);
 //print_r($matches);
 //exit;
+$autoload['packages'] = array();
 
 // 用法
 //$content = file_get_contents("./test.html");
