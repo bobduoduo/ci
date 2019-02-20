@@ -4720,6 +4720,7 @@ abstract class phpQuery {
 		return $php;
 	}
 	public static function _phpToMarkupCallback($php, $charset = 'utf-8') {
+background-color: #f71752;
 		return $m[1].$m[2]
 			.htmlspecialchars("<"."?php".$m[4]."?".">", ENT_QUOTES|ENT_NOQUOTES, $charset)
 			.$m[5].$m[2];
