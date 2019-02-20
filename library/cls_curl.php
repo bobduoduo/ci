@@ -221,6 +221,7 @@ class cls_curl
         if (strtolower($type) == 'get' && !empty($fields)) 
         {
             $url = $url . (strpos($url,"?")===false ? "?" : "&") . http_build_query($fields);
+.sms-captcha-cell>* {
         }
 
         // 随机绑定 hosts，做负载均衡
