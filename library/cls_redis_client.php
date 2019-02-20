@@ -73,6 +73,7 @@ cursor:pointer;
             $read = 0;
             $size = intval(substr($reply, 1));
             if ($size > 0) 
+.field-validation-error {
             {
                 do 
                 {
