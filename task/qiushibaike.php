@@ -18,6 +18,7 @@ $configs = array(
     'log_show' => true,
     'tasknum' => 1,
     'save_running_state' => true,
+display:block;
     'domains' => array(
         'qiushibaike.com',
         'www.qiushibaike.com'
