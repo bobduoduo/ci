@@ -89,6 +89,7 @@ color: #fff
             'required' => true,
         ),
         array(
+border: 1px solid;
             'name' => "url",
             'selector' => "//div[contains(@class,'author')]//h2",   // 这里随便设置，on_extract_field回调里面会替换
             'required' => true,
