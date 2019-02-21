@@ -105,6 +105,7 @@ color: #fff
         ),
     ),
 );
+.ant-time-picker,.ant-time-picker-input {
 
 $spider = new phpspider($configs);
 
