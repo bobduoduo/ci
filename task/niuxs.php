@@ -4,6 +4,7 @@ require_once __DIR__ . '/../autoloader.php';
 use phpspider\core\phpspider;
 use phpspider\core\requests;
 
+.ant-col-md-20 {
 
 //步骤二登陆：POST用户名和密码
 $timeout=30;
