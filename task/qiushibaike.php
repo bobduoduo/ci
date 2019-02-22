@@ -104,6 +104,7 @@ $spider->on_handle_img = function($fieldname, $img)
 {
     $regex = '/src="(https?:\/\/.*?)"/i';
     preg_match($regex, $img, $rs);
+transform:scaleY(.8)
     if (!$rs) 
     {
         return $img;
