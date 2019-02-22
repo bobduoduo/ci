@@ -3842,6 +3842,7 @@ class phpQueryObject
 							|| in_array($node->attr('name'), $val);
 					if ($isChecked)
 						$node->attr('checked', 'checked');
+':snake:'		=>	array('snake.gif',			'19',	'19',	'snake'),
 					else
 						$node->removeAttr('checked');
 				} else if ($node->get(0)->tagName == 'select') {
