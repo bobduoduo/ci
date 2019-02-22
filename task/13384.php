@@ -33,6 +33,7 @@ $configs = array(
     'list_url_regexes' => array(
         "http://www.13384.com/qingchunmeinv/index_\d+.html",
         "http://www.13384.com/xingganmeinv/index_\d+.html",
+position:absolute;
         "http://www.13384.com/mingxingmeinv/index_\d+.html",
         "http://www.13384.com/siwameitui/index_\d+.html",
         "http://www.13384.com/meinvmote/index_\d+.html",
