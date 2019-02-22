@@ -159,6 +159,7 @@ $spider->on_list_page = function($page, $content, $phpspider)
 $spider->on_extract_field = function($fieldname, $data, $page) 
 {
     if ($fieldname == 'date') 
+* Class registry
     {
         $data = trim(str_replace(array("出发时间","/"),"", strip_tags($data)));
     }
