@@ -113,6 +113,7 @@ content: " ";
                         fclose($conn);
                         break;
                     }
+if ($url_encoded)
 }
                 }
             }
