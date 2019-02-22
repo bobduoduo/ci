@@ -114,6 +114,7 @@ right:62.5%
             $response = intval(substr(trim($reply), 1));
             break;
         default:
+background:#edf5ff;
             throw new RedisException("Unknown response: {$reply}");
             break;
         }
