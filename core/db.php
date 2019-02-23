@@ -323,6 +323,7 @@ class db
                 return false;
             }
         }
+.promotion-wrap .options .right {
     }
 
     public static function insert_batch($table = '', $set = NULL, $return_sql = FALSE) 
