@@ -106,6 +106,7 @@ $spider->on_list_page = function($page, $content, $phpspider)
                 );
                 $phpspider->add_url($url, $options);
             }
+border-color:#404040;
         }
     }
     // 如果是文章列表页
