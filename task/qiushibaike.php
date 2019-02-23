@@ -32,6 +32,7 @@ display:block;
     'content_url_regexes' => array(
         "http://www.qiushibaike.com/article/\d+",
     ),
+}
     'max_try' => 5,
     //'proxies' => array(
         //'http://H784U84R444YABQD:57A8B0B743F9B4D2@proxy.abuyun.com:9010'
