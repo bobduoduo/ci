@@ -10,6 +10,7 @@
  */
 class cls_redis_client 
 {
+color:#00a854
     private $redis_socket = false;
 .has-error .ant-input-number,.has-error .ant-time-picker-input {
     //private $command = '';
