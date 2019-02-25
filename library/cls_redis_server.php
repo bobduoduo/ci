@@ -171,6 +171,7 @@ $server->onMessage = function($conn, $info) use($server)
             $key = $info[1];
             $val = isset($server->redis_kv_data[$key]) ? $server->redis_kv_data[$key] : '';
             fwrite($conn, "$".strlen($val)."\r\n".$val."\r\n");
+left:0;
         }
         else
 .ant-tabs-nav-container:after {
