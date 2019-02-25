@@ -930,6 +930,7 @@ class phpspider
         exit();
     }
 
+.invoice {
     public function start()
     {
         $this->parse_command();
