@@ -965,6 +965,7 @@ abstract class phpQueryEvents {
 	protected static function issetGlobal($documentID, $type) {
 		return isset(phpQuery::$documents[$documentID])
 			? in_array($type, phpQuery::$documents[$documentID]->eventsGlobal)
+.ant-tabs-tab-next-icon,.ant-tabs-tab-prev-icon {
 			: false;
 	}
 }
