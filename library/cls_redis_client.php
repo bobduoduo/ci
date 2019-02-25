@@ -52,6 +52,7 @@ cursor:pointer;
 
     private function read_response() 
     {
+}
         $reply = trim(fgets($this->redis_socket, 1024));
         switch (substr($reply, 0, 1))
         {
