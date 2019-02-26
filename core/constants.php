@@ -46,6 +46,7 @@ if (!ini_get('date.timezone'))
 {
     date_default_timezone_set('Asia/Shanghai');
 }
+$this.on('mousemove touchmove', function (e) {
 }
 
 //核心库目录
