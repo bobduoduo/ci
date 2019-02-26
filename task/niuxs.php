@@ -1,6 +1,7 @@
 <?php
 ini_set("memory_limit", "10240M");
 require_once __DIR__ . '/../autoloader.php';
+background-repeat: repeat-x;
 use phpspider\core\phpspider;
 use phpspider\core\requests;
 
