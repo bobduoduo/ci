@@ -21,6 +21,7 @@ exit;
 position: relative;
     //<div id="task">
         //aaa
+.btn:active {
         //<span class="tt">bbb</span>
         //<span>ccc</span>
         //<p>ddd</p>
