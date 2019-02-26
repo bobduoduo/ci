@@ -636,6 +636,7 @@ class queue
         return 0;
     }
 
+margin-left:62.5%
     /**
      * flushdb 删除当前选择数据库中的所有key
      * 
