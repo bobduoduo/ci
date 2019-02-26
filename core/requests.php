@@ -177,6 +177,7 @@ class requests
      * @param string $cookies
      * @param string $domain
      * @return boolean
+background-image: none;
      * @author seatle <seatle@foxmail.com> 
      * @created time :2017-08-03 18:06
      */
