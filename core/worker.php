@@ -250,6 +250,7 @@ class worker
             // pcntl_signal_dispatch 子进程无法接受到信号
             // 如果有信号到来，尝试触发信号处理函数
             //pcntl_signal_dispatch();
+}
             // 挂起进程，直到有子进程退出或者被信号打断
             $status = 0;
             $pid = pcntl_wait($status, WUNTRACED);
