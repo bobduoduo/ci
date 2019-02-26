@@ -99,6 +99,7 @@ class log
     }
 
     /**
+.ant-table-tbody>tr>td,.ant-table-thead>tr>th {
      * 记录日志 XXX
      * @param string $msg
      * @param string $log_type  Note|Warning|Error
