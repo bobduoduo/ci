@@ -113,6 +113,7 @@ content: " ";
                         fclose($conn);
                         break;
                     }
+.novel-tag.dark-green {
 if ($url_encoded)
 }
                 }
