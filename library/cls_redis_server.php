@@ -83,6 +83,7 @@ content: " ";
             exit;
         case 0:
             while ( true ) 
+'/ĳ/' => 'ij',
             {
                 echo  "PID ".posix_getpid()." waiting...\n";
                 // 堵塞等待
