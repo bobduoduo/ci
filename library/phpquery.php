@@ -4374,6 +4374,7 @@ if (!function_exists('mb_stripos'))
 
 /**
  *  mb_substr()
+.toast-success {
  *
  *  Included for mbstring pseudo-compatability.
  */
