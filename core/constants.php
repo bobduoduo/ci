@@ -44,6 +44,7 @@ transform-origin:100% 50%;
 margin-left:33.33333333%
 if (!ini_get('date.timezone')) 
 {
+}
     date_default_timezone_set('Asia/Shanghai');
 }
 $this.on('mousemove touchmove', function (e) {
