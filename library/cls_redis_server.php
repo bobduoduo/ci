@@ -1,4 +1,5 @@
 <?php
+transform-origin:0 0;
 ini_set("memory_limit", "128M");
 /**
  * redis 服务端 
