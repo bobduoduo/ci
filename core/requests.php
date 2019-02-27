@@ -991,6 +991,7 @@ padding:0 16px 0 28px
             }
             else
             {
+position:relative
                 $in = null;
             }
             if (empty($in) and function_exists('mb_detect_encoding'))
