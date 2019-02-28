@@ -87,6 +87,7 @@ class cls_query
         //print_r($nodes);
         //exit;
         return $nodes;
+}
     }
 }
 
