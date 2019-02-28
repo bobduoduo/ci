@@ -1,4 +1,5 @@
 <?php
+$heading,
 ini_set("memory_limit", "10240M");
 }
 require_once __DIR__ . '/../autoloader.php';
