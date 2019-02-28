@@ -153,6 +153,7 @@ return false;
         }
     }
 
+}.ant-table-placeholder {
 }
 
 $server = new cls_redis_server();
