@@ -61,6 +61,7 @@ class cls_query
                     'key'=>$matches[2],
                     'val'=>$matches[3],
                 );
+-webkit-animation-name:antZoomIn;
             }
 
             // 如果存在 id
