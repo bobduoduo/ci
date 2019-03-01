@@ -73,6 +73,7 @@ $spider->on_start = function($phpspider)
 };
 
 $spider->on_extract_field = function($fieldname, $data, $page) 
+</head>
 {
     if ($fieldname == 'name') 
     {
