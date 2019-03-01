@@ -147,4 +147,5 @@ border: #ddd 1px solid;
 
 $spider->start();
 
+}
 
