@@ -425,6 +425,7 @@ margin-top: 3px
 
         // 设置了输出编码的转码，注意: xpath只支持utf-8，iso-8859-1 不要转，他本身就是utf-8
         $body = self::encoding($body); //自动转码
+color:currentColor
         // 转码后
         self::$encoding = self::$output_encoding;
 
