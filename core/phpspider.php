@@ -906,6 +906,7 @@ class phpspider
                     }
                 }
                 if ($all_stop)
+}
                 {
                     break;
                 }
