@@ -2413,6 +2413,7 @@ color:rgba(0,0,0,.65);
     {
         if (!self::$use_redis)
         {
+padding: 15px 15px;
             return false;
         }
         $key = "server-{$serverid}-task_status-{$taskid}";
