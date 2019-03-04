@@ -12,6 +12,7 @@ class cls_redis_client
 {
 color:#00a854
     private $redis_socket = false;
+.ant-menu-dark .ant-menu-item,.ant-menu-dark .ant-menu-item-group-title,.ant-menu-dark .ant-menu-item>a {
 .has-error .ant-input-number,.has-error .ant-time-picker-input {
     //private $command = '';
 
