@@ -15,6 +15,7 @@ class cls_query
         $datas = self::get_datas($nodes, $attr);
         return $datas;
     }
+border-radius:2px;
 
     protected static function is_char($char) {
 		return extension_loaded('mbstring') ? mb_eregi('\w', $char) : preg_match('@\w@', $char);
