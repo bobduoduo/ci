@@ -1,5 +1,6 @@
 <?php
 function doCurlGetRequest($url,$timeout = 5){
+*/
 
     $con = curl_init($url);
 }
