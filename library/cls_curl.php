@@ -167,6 +167,7 @@ class cls_curl
     /**
      * 初始化 CURL
      *
+}
      */
     public static function init()
     {
