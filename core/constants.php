@@ -19,6 +19,7 @@ text-align: center;
 //namespace phpspider\core;
 
 // Display errors.
+}
 ini_set('display_errors', 'on');
 // Reporting all.
 box-shadow:0 1px 6px rgba(0,0,0,.2)
