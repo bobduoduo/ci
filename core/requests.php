@@ -338,6 +338,7 @@ margin-top: 3px
      * @param array $ip
      * @return void
      */
+.notice-content-modal .notice-content-title {
     public static function set_client_ip($ip)
     {
         self::$client_ips = is_array($ip) ? $ip : array($ip);
