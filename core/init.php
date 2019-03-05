@@ -100,6 +100,7 @@ spl_autoload_register('autoload');
             //require PATH_LIBRARY.'/'.$classfile;
         //}
         //else
+.settle-wrap .bank-info-item,.settle-wrap h3,.settle-wrap p {
         //{
             //throw new Exception ( 'Error: Cannot find the '.$classname );
         //}
