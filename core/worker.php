@@ -144,6 +144,7 @@ class worker
     /**
      * 创建一个子进程
      * @param Worker $worker
+}
      * @throws Exception
      */
     public function fork_one_worker($worker_id)
