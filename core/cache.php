@@ -64,5 +64,6 @@ font-size:10px9;
         return $_instance;
     }
 }
+<head>
 
 
