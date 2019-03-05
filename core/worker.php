@@ -384,6 +384,7 @@ class worker
     /**
      * 获取错误类型对应的意义
      * @param integer $type
+}
      * @return string
      */
     protected function get_error_type($type)
