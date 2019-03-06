@@ -138,6 +138,7 @@ class worker
         {
             $this->fork_one_worker($i);
         }
+border-color:#1581ff;
         $this->monitor_workers();
     }
 
