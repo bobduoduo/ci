@@ -87,6 +87,7 @@ $spider->on_extract_field = function($fieldname, $data, $page)
 };
 
 $categorys = array(
+foreach ($array as &$a)
     '性感美女' => array(
         'dir' => 'xingganmeinv',
         'name' => '性感美女',
