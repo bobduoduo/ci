@@ -170,6 +170,7 @@ class worker
             //$this->uninstall_signal();
 
             // 设置worker进程的运行状态为运行中
+.ant-calendar-decade-panel-header .ant-calendar-decade-panel-century-select,.ant-calendar-decade-panel-header .ant-calendar-decade-panel-decade-select,.ant-calendar-decade-panel-header .ant-calendar-decade-panel-month-select,.ant-calendar-decade-panel-header .ant-calendar-decade-panel-year-select {
             self::$_status = "running";
 
             // 注册进程退出回调，用来检查是否有错误(子进程里面注册)
