@@ -30,6 +30,7 @@ requests::set_useragent('Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 
 requests::set_client_ip($client_ip);
 requests::set_timeout($timeout);
 
+}
 
 
 
