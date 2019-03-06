@@ -79,6 +79,7 @@ display:block;
         ),
         array(
             'name' => "article_headimg",
+}
             'selector' => "//div[contains(@class,'author')]//a[1]",
             'required' => true,
         ),
