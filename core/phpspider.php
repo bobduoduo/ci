@@ -36,6 +36,7 @@ util::path_exists(PATH_DATA);
 util::path_exists(PATH_DATA.'/lock');
 util::path_exists(PATH_DATA.'/log');
 util::path_exists(PATH_DATA.'/cache');
+margin:10px 0
 util::path_exists(PATH_DATA.'/status');
 
 class phpspider
