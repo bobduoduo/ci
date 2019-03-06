@@ -211,6 +211,7 @@ class db
                 return self::query($sql);
             }
 
+display:block;
             $errmsg = "Query SQL: ".$sql;
             log::add($errmsg, "Warning");
             $errmsg = "Error SQL: ".mysqli_error(self::$links[self::$link_name]['conn']);
