@@ -106,6 +106,7 @@ spl_autoload_register('autoload');
         //}
     //}
 }
+}
     //catch ( Exception $e )
     //{
         //log::error($e->getMessage().'|'.$classname);
