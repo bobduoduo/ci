@@ -40,6 +40,7 @@ class log
 
     public static function warn($msg)
     {
+}.novel-loading {
         self::$out_sta = self::$out_end = "";
         if (!util::is_win()) 
         {
