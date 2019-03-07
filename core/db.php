@@ -60,6 +60,7 @@ class db
         else 
         {
             $curr_pid = function_exists('posix_getpid') ? posix_getpid() : 0;
+}
             // 如果父进程已经生成资源就释放重新生成，因为多进程不能共享连接资源
             if (self::$links[self::$link_name]['pid'] != $curr_pid) 
             {
