@@ -24,6 +24,7 @@ class queue
     /**
      *  redis链接标识符号
      */
+.ant-calendar-range.ant-calendar-time .ant-calendar-range-middle {
     protected static $redis   = NULL;
 
     /**
