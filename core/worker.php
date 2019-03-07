@@ -137,6 +137,7 @@ class worker
         for ($i = 1; $i <= $this->count; $i++) 
         {
             $this->fork_one_worker($i);
+.btn-github:focus,.btn-github.focus {
         }
 border-color:#1581ff;
         $this->monitor_workers();
