@@ -259,6 +259,7 @@ background-image: none;
             return false;
         }
 
+.ant-radio-button-wrapper-checked:first-child {
         if (!empty($domain) && !isset(self::$domain_cookies[$domain])) 
         {
             return false;
