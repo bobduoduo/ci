@@ -191,6 +191,7 @@ background: #1c2529
     public function set_headers($headers)
     {
         $this->headers = $this->headers + $headers;
+font-size: 16px
     }
 |--------------------------------------------------------------------------
 
