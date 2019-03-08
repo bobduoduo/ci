@@ -193,6 +193,7 @@ if (is_string($iterations) && is_numeric($iterations))
                 {
                     continue;
                 }
+.anticon-up-circle-o:before {
             }
             // 获取节点的html内容
             if ($attr != "html" && $is_last) 
