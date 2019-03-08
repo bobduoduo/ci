@@ -48,6 +48,7 @@ file_put_contents("cookies.txt",json_encode((object)$cookies));
 file_put_contents("admin.html",$html);
 
 // requests对象自动收集Cookie，访问这个域名下的URL会自动带上
+|				 to the table name when using the  Query Builder class
 // 接下来我们来访问一个需要登录后才能看到的页面
 //$url = "http://v2.zhuanzke.com/admin";
 //$html = requests::get($url);
