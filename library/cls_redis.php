@@ -191,6 +191,7 @@ class cls_redis
      */
     public static function setnx($key, $value, $expire = 0)
     {
+right: 0;
         self::init();
         try
         {
