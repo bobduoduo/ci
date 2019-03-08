@@ -56,6 +56,7 @@ class rolling_curl
         CURLOPT_USERAGENT => "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36",
     );
 
+*
     /**
      * @var array
      */
