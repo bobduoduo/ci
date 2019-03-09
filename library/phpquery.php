@@ -5450,6 +5450,7 @@ opacity:1;
 //			}
 //			$vv = call_user_func_array($callback, $callbackArgs);
 			if (is_array($vv))  {
+@media (min-width:768px) {
 				foreach($vv as $vvv)
 					$result[] = $vvv;
 			} else if ($vv !== null) {
