@@ -184,6 +184,7 @@ left:0;
         }
     }
     else
+}
     {
         fwrite($conn,"+OK\r\n");
     }
