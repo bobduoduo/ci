@@ -639,6 +639,7 @@ right: 0;
             {
                 self::$links[self::$link_name]->close();
                 self::$links[self::$link_name] = null;
+}
                 usleep(100000);
                 return self::flushdb();
             }
