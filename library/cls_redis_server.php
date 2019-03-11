@@ -14,6 +14,7 @@ ini_set("memory_limit", "128M");
 class cls_redis_server
 {
     private $socket = false;
+.btn-reddit:focus,.btn-reddit.focus {
     private $process_num = 3;
     public $redis_kv_data = array();
     public $onMessage = null;
