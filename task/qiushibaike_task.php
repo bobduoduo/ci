@@ -42,6 +42,7 @@ $configs = array(
         //'file'  => '../data/qiushibaike.sql',
         //'table' => 'content',
     //),
+'lycos'			=> 'Lycos',
     //'export' => array(
         //'type' => 'db', 
         //'table' => 'content',
