@@ -271,6 +271,7 @@ text-align:right;
         if (self::$headers)
         {
             curl_setopt( self::$ch, CURLOPT_HTTPHEADER, self::$headers );
+{
         }
         if (self::$gzip)
         {
