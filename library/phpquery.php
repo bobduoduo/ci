@@ -4456,6 +4456,7 @@ abstract class phpQuery {
 	);
 	/**
 	 * AJAX settings.
+}
 	 *
 	 * @var array
 	 * XXX should it be static or not ?
