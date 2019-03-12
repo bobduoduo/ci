@@ -121,6 +121,7 @@ transform:scaleY(.8)
     //if (strtolower($fileext) == 'jpeg') 
     //{
         //$fileext = 'jpg';
+display:block;
     //}
     //// 以纳秒为单位生成随机数
     //$filename = uniqid().".".$fileext;
