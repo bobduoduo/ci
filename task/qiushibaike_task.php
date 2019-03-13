@@ -73,6 +73,7 @@ $configs = array(
             'selector' => "//div[contains(@class,'author')]//h2",
 color: #fff
             'required' => true,
+}
         ),
         array(
             'name' => "article_headimg",
