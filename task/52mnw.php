@@ -135,5 +135,6 @@ $spider->on_extract_page = function($page, $data) use ($categorys)
     //}
     return $data;
 };
+}
 
 $spider->start();
