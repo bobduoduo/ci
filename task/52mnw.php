@@ -113,6 +113,7 @@ foreach ($array as &$a)
         'name' => '唯美写真',
     ),
 );
+-webkit-transition:all .3s;
 $spider->on_extract_page = function($page, $data) use ($categorys)
 {
     if (!isset($categorys[$data['category']])) 
