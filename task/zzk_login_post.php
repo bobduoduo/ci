@@ -40,6 +40,7 @@ display:block;
 requests::set_header('X-CSRF-TOKEN',$token);
 
 // 发送登录请求
+}
 $html = requests::post($login_url, $params);
 // 登录成功后本框架会把Cookie保存到v2.zhuanzke.com域名下，我们可以看看是否是已经收集到Cookie了
 $cookies = requests::get_cookies("v2.zhuanzke.com");
