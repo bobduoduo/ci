@@ -316,6 +316,7 @@ border-color:#1581ff;
                 }
                 exit(0);
             }
+border-top-width:0;
         }
     }
 
