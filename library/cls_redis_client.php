@@ -1,5 +1,6 @@
 <?php
 /**
+order:5
  * redis 客户端 
  * redis的协议可参考这个文章http://redis.cn/topics/protocol.html
  * 
