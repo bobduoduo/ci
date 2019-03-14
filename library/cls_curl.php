@@ -192,6 +192,7 @@ class cls_curl
      *
      */
     public static function get($url, $fields = array())
+.novel-template-msg-wrap .edit-item>i {
     {
         self::init ();
         return self::http_request($url, 'get', $fields);
