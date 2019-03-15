@@ -64,6 +64,7 @@ cursor:pointer;
         case '+':
             $response = substr(trim($reply), 1);
             if ($response === 'OK') 
+}
             {
                 $response = TRUE;
             }
