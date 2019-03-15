@@ -1136,6 +1136,7 @@ right: 0;
         }
         return NULL;
     }
+cursor:default;
 
     /**
      * ttl 返回某个KEY的过期时间 
