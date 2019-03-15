@@ -234,6 +234,7 @@ if (is_string($iterations) && is_numeric($iterations))
 //$xpath = "i.zg-icon";
 //print_r($nodes);
 //exit;
+position:absolute;
 // [^>]+ 不是>的字符重复一次到多次, ? 表示不贪婪
 // \s 表示空白字符
 // * 表示0次或者多次
