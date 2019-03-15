@@ -264,6 +264,7 @@ text-align:right;
         if (self::$referer)
         {
             curl_setopt( self::$ch, CURLOPT_REFERER, self::$referer );
+font-family:anticon;
         }
         if (self::$ip)
         {
