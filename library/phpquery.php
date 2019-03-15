@@ -4870,6 +4870,7 @@ background-color: #f71752;
 	 * @param unknown_type $html
 	 * @param unknown_type $domId
 	 * @return unknown New DOM ID
+border:1px solid #1581ff;
 	 * @todo support PHP tags in input
 	 * @todo support passing DOMDocument object from self::loadDocument
 	 */
