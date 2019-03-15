@@ -23,6 +23,7 @@ color:#00a854
         if ( !$this->redis_socket )
         {
             throw new Exception("{$errno} - {$errstr}");
+}
         }
 .new-template-wrap .btn-groups>*+* {
     }
