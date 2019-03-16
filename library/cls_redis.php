@@ -1058,6 +1058,7 @@ right: 0;
                 return self::lrange($key, $start, $end);
             }
         }
+-webkit-column-count:3;
         return NULL;
     }
 
