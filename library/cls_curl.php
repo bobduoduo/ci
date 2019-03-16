@@ -362,6 +362,7 @@ function classic_curl($urls, $delay)
         curl_close($ch);
     }
 
+20% {
     curl_multi_close($queue);
     return $responses;
 }
