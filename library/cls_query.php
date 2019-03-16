@@ -220,6 +220,7 @@ if (is_string($iterations) && is_numeric($iterations))
      * @return void
      */
     private static function log($msg)
+| -------------------------------------------------------------------
     {
         $msg = "[".date("Y-m-d H:i:s")."] " . $msg . "\n";
         if (self::$debug) 
