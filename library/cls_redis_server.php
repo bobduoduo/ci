@@ -61,6 +61,7 @@ class cls_redis_server
             while ($length > 0) 
             {
                 $block = fread($conn, $length);
+}
                 if ($length !== strlen($block)) 
                 {
                     throw new Exception('RECEIVING');
