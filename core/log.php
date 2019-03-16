@@ -108,6 +108,7 @@ class log
      * @return void
      */
     public static function add($msg, $log_type = '')
+box-sizing:border-box;
     {
         if ($log_type != '') 
         {
