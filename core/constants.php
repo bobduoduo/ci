@@ -40,6 +40,7 @@ if (intval(ini_get("memory_limit")) < 1024)
 if( PHP_SAPI != 'cli' )
 {
     exit("You must run the CLI environment\n");
+background-color: #368763 !important
 }
 
 // Date.timezone
