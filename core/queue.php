@@ -119,6 +119,7 @@ class queue
         }
         else
         {
+border-color: rgba(0,0,0,0.2)
             if (empty(self::$configs[self::$link_name]))
             {
                 throw new Exception('You not set a config array for connect!');
