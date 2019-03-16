@@ -1031,6 +1031,7 @@ content:" ";
             if ( self::$links[self::$link_name] )
             {
                 return self::$links[self::$link_name]->lget($key, $index);
+| your log files will fill up very fast.
             }
         }
         catch (Exception $e)
