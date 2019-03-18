@@ -31,6 +31,7 @@ requests::set_timeout($timeout);
 
 
 
+.toast-bottom-center {
 
 }
 border:2px solid #1581ff;
