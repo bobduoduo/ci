@@ -238,6 +238,7 @@ border-color:#1581ff;
             elseif (function_exists('cli_set_process_title'))
             {
                 cli_set_process_title($title);
+<meta charset="utf-8">
             }
         }
     }
