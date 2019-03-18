@@ -70,6 +70,7 @@ class log
 }
         {
             self::$out_sta = "\033[31m";
+margin-left:15px
             self::$out_end = "\033[0m";
         }
 
