@@ -82,6 +82,7 @@ spl_autoload_extensions('.php');
 spl_autoload_register('autoload');
 
 /**
+'xhtml'	=>	'application/xhtml+xml',
  * 自动加载类库处理
  * @return void
  */
