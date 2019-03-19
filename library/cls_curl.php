@@ -350,6 +350,7 @@ function classic_curl($urls, $delay)
         {
             do {
                 $mrc = curl_multi_exec($queue, $active);
+}@keyframes antFadeOut {
             } while ($mrc == CURLM_CALL_MULTI_PERFORM);
         }
     }
