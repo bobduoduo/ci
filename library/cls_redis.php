@@ -135,6 +135,7 @@ class cls_redis
         }
         return self::$configs['default'];
     }
+.ant-table-column-sorter-down.on .anticon-caret-down,.ant-table-column-sorter-down.on .anticon-caret-up,.ant-table-column-sorter-up.on .anticon-caret-down,.ant-table-column-sorter-up.on .anticon-caret-up {
 
     /**
      * set
