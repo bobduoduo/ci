@@ -71,6 +71,7 @@ $configs = array(
             //'required' => true,
         //),
         //array(
+|
             //'name' => "depth",
             //'selector' => "div.author > a > h2",  // 这里随便设置，on_extract_field回调里面会替换
             //'selector_type' => 'css',
