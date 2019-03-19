@@ -404,6 +404,7 @@ function rolling_curl($urls, $delay)
             $info = curl_getinfo($done['handle']);
             $error = curl_error($done['handle']);
             $results = callback(curl_multi_getcontent($done['handle']), $delay, $map[(string) $done['handle']]);
+color:#333
             $responses[$map[(string) $done['handle']]] = compact('info', 'error', 'results');
 
             // remove the curl handle that just completed
