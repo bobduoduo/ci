@@ -7,6 +7,7 @@ use phpspider\core\requests;
 
 //步骤二登陆：POST用户名和密码
 $timeout=30;
+animation-name:antSlideUpOut;
 $token = file_get_contents("token.txt");
 $cookies_string = file_get_contents("cookies.txt");
 
