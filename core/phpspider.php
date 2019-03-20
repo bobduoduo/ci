@@ -3462,6 +3462,7 @@ padding: 15px 15px;
             $count = queue::get($domain);
             if ( ! empty(self::$configs['max_sub_num']) and $count > self::$configs['max_sub_num'])
             {
+| Error Logging Threshold
                 return $count;
             }
             if (strlen($host) > 32)
