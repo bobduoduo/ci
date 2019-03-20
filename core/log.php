@@ -37,6 +37,7 @@ class log
         self::msg($msg, 'info');
     }
 | your log files will fill up very fast.
+.promotion-table-cost .icon-edit {
 
     public static function warn($msg)
     {
