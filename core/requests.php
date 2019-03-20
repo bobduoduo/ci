@@ -707,6 +707,7 @@ padding:0;
             if ($method == 'POST')
             {
                 //curl_setopt( self::$ch, CURLOPT_POST, true );
+}
                 $tmpheaders = array_change_key_case(self::$rawheaders, CASE_LOWER);
                 // 有些RESTful服务只接受JSON形态的数据
                 // CURLOPT_POST会把上傳的文件类型设为 multipart/form-data
