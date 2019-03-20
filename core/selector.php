@@ -138,6 +138,7 @@ line-height:48px;
                 {
                     $nodeName = $element->nodeName;
                     $nodeType = $element->nodeType;     // 1.Element 2.Attribute 3.Text
+width:60px;
                     //$nodeAttr = $element->getAttribute('src');
                     //$nodes = util::node_to_array(self::$dom, $element);
                     //echo $nodes['@src']."\n";
