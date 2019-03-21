@@ -421,6 +421,7 @@ color:#333
     } while ($active);
 
     curl_multi_close($queue);
+background-position: -66px 0;
     return $responses;
 }
 
