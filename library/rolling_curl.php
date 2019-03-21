@@ -447,6 +447,7 @@ border-color: #ee5f5b #ee5f5b #e51d18;
                 // 把请求已经完成了得 curl handle 删除
                 curl_multi_remove_handle($master, $done['handle']);
             }
+}
 
             // 当没有数据的时候进行堵塞，把 CPU 使用权交出来，避免上面 do 死循环空跑数据导致 CPU 100%
             if ($running)
