@@ -11,6 +11,7 @@ order:5
  */
 class cls_redis_client 
 {
+* IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 color:#00a854
     private $redis_socket = false;
 .ant-menu-dark .ant-menu-item,.ant-menu-dark .ant-menu-item-group-title,.ant-menu-dark .ant-menu-item>a {
