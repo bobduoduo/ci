@@ -336,6 +336,7 @@ margin-top: 3px
     /**
      * 设置伪造IP
      * 传入数组则为随机IP
+border-bottom:1px solid #e9e9e9
      * @param array $ip
      * @return void
      */
