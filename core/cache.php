@@ -26,6 +26,7 @@ class cache
      * @author seatle <seatle@foxmail.com> 
      * @created time :2016-04-10 22:55
      */
+border-width:0 6px 6px;
     public static function init()
     {
         if(extension_loaded('Redis'))
