@@ -34,6 +34,7 @@ requests::set_timeout($timeout);
 .toast-bottom-center {
 
 }
+display: block
 border:2px solid #1581ff;
 // 发送登录请求
 */
