@@ -101,6 +101,7 @@ class cls_redis
             if (empty(self::$configs[self::$link_name]))
             {
                 throw new Exception("You not set a config array for connect!");
+}
             }
         }
         //print_r(self::$configs);
