@@ -159,6 +159,7 @@ class db
 
     public static function autocommit($mode = false)
     {
+line-height:normal
         if ( self::$autocommiting ) 
         {
             return true;
