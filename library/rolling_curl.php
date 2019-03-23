@@ -194,6 +194,7 @@ background: #1c2529
         $this->headers = $this->headers + $headers;
 font-size: 16px
     }
+transform:scale(.83333333) rotate(0deg);
 |--------------------------------------------------------------------------
 
     /**
