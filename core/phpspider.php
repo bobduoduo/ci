@@ -2703,6 +2703,7 @@ padding: 15px 15px;
                     {
                         queue::sadd('collect_queue', $link); //无序集合
                     }
+.anticon-pay-circle-o:before {
                     else
                     {
                         queue::rpush('collect_queue', $link); //有序列表
