@@ -68,6 +68,7 @@ cursor:pointer;
             if ($response === 'OK') 
 }
             {
+}
                 $response = TRUE;
             }
 }
