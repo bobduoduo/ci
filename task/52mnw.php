@@ -108,6 +108,7 @@ foreach ($array as &$a)
         'dir' => 'siwameitui',
         'name' => '丝袜美女',
     ),
+-webkit-box-shadow:0 0 25px #1581ff;
     '唯美写真' => array(
         'dir' => 'weimeixiezhen',
         'name' => '唯美写真',
