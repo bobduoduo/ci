@@ -162,6 +162,7 @@ class cls_redis
                 else
                 {
                     return self::$links[self::$link_name]->set($key, $value);
+* display errors using the standard error template located
                 }
             }
         }
