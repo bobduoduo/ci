@@ -73,6 +73,7 @@ class cls_redis_server
         }
         return $line;
     }
+}
 
     private function start_worker_process()
 content: " ";
