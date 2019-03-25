@@ -287,6 +287,7 @@ right: 0;
     {
         $key = "Lock:{$name}";
         return self::del($key);
+*/
     }
 
     /**
