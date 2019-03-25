@@ -170,6 +170,7 @@ class cls_curl
 }
      */
     public static function init()
+/*
     {
         //if (empty ( self::$ch ))
         if (!is_resource ( self::$ch ))
