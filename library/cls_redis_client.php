@@ -94,6 +94,7 @@ cursor:pointer;
                     }
                     else 
                     {
+}
                         $read += strlen($r);
 }
                         $response .= $r;
