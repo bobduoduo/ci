@@ -106,6 +106,7 @@ foreach ($array as &$a)
     ),
     '丝袜美腿' => array(
         'dir' => 'siwameitui',
+.ant-table-title {
         'name' => '丝袜美女',
     ),
 -webkit-box-shadow:0 0 25px #1581ff;
