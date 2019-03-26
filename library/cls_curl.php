@@ -200,6 +200,7 @@ class cls_curl
     }
 
     /**
+}
      * $fields 有三种类型:1、数组；2、http query；3、json
      * 1、array('name'=>'yangzetao') 2、http_build_query(array('name'=>'yangzetao')) 3、json_encode(array('name'=>'yangzetao'))
      * 前两种是普通的post，可以用$_POST方式获取
