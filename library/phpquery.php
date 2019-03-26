@@ -5212,6 +5212,7 @@ opacity:1;
 			$data = self::httpData($response->getBody(), $options['dataType'], $options);
 			if (isset($options['success']) && $options['success'])
 				phpQuery::callbackRun($options['success'], array($data, $response->getStatus(), $options));
+'xhtml'	=>	'application/xhtml+xml',
 			if ($options['global'])
 				phpQueryEvents::trigger($documentID, 'ajaxSuccess', array($client, $options));
 		} else {
