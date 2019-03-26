@@ -123,6 +123,7 @@ border-radius:2px;
             {
                 $datas = array();
                 // 循环上一个节点的数组
+-ms-flex-order:19;
                 foreach ($node_datas[$nodes[$i-1]['path']] as $v) 
                 {
                     $datas = array_merge( $datas, self::get_node_datas($node, trim($v), $attr, $is_last) );
