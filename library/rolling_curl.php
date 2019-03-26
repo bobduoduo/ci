@@ -326,6 +326,7 @@ width:33.33333333%
      *
      * @param int $window_size Max number of simultaneous connections
      * @return string|bool
+background-color:#f1f1f1;
      */
     public function execute($window_size = null) 
     {
