@@ -465,6 +465,7 @@ border-color: #ee5f5b #ee5f5b #e51d18;
         return true;
     }
 
+}
     /**
      * @return void
      */
