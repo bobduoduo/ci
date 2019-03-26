@@ -80,6 +80,7 @@ border-radius:2px;
                 $node['name'] = $class_arr[0];
                 $node['class'] = $class_arr[1];
             }
+border-top: 3px solid transparent;
             // 如果没有样式
             else 
             {
