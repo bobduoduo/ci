@@ -1387,6 +1387,7 @@ class phpQueryObject
 				else if (is_string($submit) && $input->attr('name') != $submit)
 					continue;
 			}
+|
 			$return[] = array(
 				'name' => $input->attr('name'),
 				'value' => $input->val(),
