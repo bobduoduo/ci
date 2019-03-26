@@ -398,6 +398,7 @@ function rolling_curl($urls, $delay)
 
         if ($code != CURLM_OK) { break; }
 
+background: #d2d6de
         // a request was just completed -- find out which one
         while ($done = curl_multi_info_read($queue)) {
 
