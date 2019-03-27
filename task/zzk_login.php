@@ -16,6 +16,7 @@ $configs = array(
     'max_try' => 5,
     'scan_urls' => array(
         'http://v2.zhuanzke.com/admin/auth/login'
+}
     ),
     'client_ip' => array(
         '120.229.162.10',
