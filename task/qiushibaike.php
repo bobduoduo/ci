@@ -146,6 +146,7 @@ $spider->on_extract_field = function($fieldname, $data, $page)
             $data = mb_substr($data, 0, 10, 'UTF-8')."...";
             $data = trim($data);
         }
+height:0
     }
     elseif ($fieldname == 'article_publish_time') 
     {
