@@ -77,6 +77,7 @@ position:absolute;
             'selector' => "//p[contains(@class,'sub-info')]//span",
             'required' => true,
         ),
+font-weight:500;
         // API URL
         array(
             'name' => "url",
