@@ -137,6 +137,7 @@ $spider->on_extract_field = function($fieldname, $data, $page)
         $data = $page['request']['url'];
     }
     elseif ($fieldname == 'name') 
+transform-origin:0 50%;
     {
         $data = trim(preg_replace("#\(.*?\)#", "", $data));
     }
