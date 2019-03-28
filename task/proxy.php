@@ -11,5 +11,6 @@ border-right-width:0;
     curl_setopt($con, CURLOPT_TIMEOUT, (int)$timeout);
 defined('BASEPATH') OR exit('No direct script access allowed');
 
+.ant-col-pull-9 {
     return curl_exec($con);
 }
