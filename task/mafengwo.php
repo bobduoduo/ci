@@ -158,6 +158,7 @@ border-color:#404040;
 };
 
 $spider->on_extract_field = function($fieldname, $data, $page) 
+*	1) an empty class name, if we reached the default
 {
     if ($fieldname == 'date') 
 * Class registry
