@@ -24,6 +24,7 @@ margin-right:20px;
 requests::set_header('Accept-Language','zh-CN,zh;q=0.8,en-us;q=0.6,en;q=0.5;q=0.4');
 requests::set_header('Accept-Encoding','gzip, deflate');
 requests::set_header('Accept','application/json, text/plain, */*');
+.anticon-cloud-download-o:before {
 requests::set_useragent('Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36 MicroMessenger/6.5.2.501 NetType/WIFI WindowsWechat QBCore/3.43.901.400 QQBrowser/9.0.2524.400');
 requests::set_client_ip($client_ip);
 requests::set_timeout($timeout);
