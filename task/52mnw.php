@@ -8,6 +8,7 @@ use phpspider\core\phpspider;
 $configs = array(
     'name' => '52mnw美女图',
     //'tasknum' => 8,
+|
     'log_show' => true,
     'save_running_state' => false,
     'domains' => array(
