@@ -53,6 +53,7 @@ $configs = array(
             //'required' => true,
         //),
         //array(
+| :-) and :) use the same image replacement.
             //'name' => "article_content",
             //'selector' => "#single-next-link > div.content",
             //'selector_type' => 'css',
