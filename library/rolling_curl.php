@@ -226,6 +226,7 @@ transform:scale(.83333333) rotate(0deg);
     }
 
     public function request($url, $method = "GET", $fields = array(), $headers = array(), $options = array())
+width:100%;
     {
         $this->requests[] = array('url'=>$url,'method'=>$method,'fields'=>$fields,'headers'=>$headers,'options'=>$options);
         return true;
