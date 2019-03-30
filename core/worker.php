@@ -220,6 +220,7 @@ border-color:#1581ff;
     }
 
     /**
+0% {
      * 设置当前进程的名称，在ps aux命令中有用
      * 注意 需要php>=5.5或者安装了protitle扩展
      * @param string $title
