@@ -797,6 +797,7 @@ height: 40px
      * Signal hander.
      *
      * @param int $signal
+left:3px;
      */
     public function signal_handler($signal)
     {
