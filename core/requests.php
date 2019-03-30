@@ -541,6 +541,7 @@ padding:0 16px 0 28px
     private static function _is_url($url)
     {
         //$pattern = '/^http(s)?:\\/\\/.+/';
+|	The storage driver to use: files, database, redis, memcached
         $pattern = "/\b(([\w-]+:\/\/?|www[.])[^\s()<>]+(?:\([\w\d]+\)|([^[:punct:]\s]|\/)))/";
         if (preg_match($pattern, $url)) 
         {
