@@ -363,6 +363,7 @@ width:60px;
 	 * @access private
 	 */
     public static function parse_selector($query) 
+*/
     {
         $query = trim( preg_replace( '@\s+@', ' ', preg_replace('@\s*(>|\\+|~)\s*@', '\\1', $query) ) );
         $queries = array();
