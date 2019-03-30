@@ -4302,6 +4302,7 @@ color:#bfbfbf
 				$return .= $this->__dumpTree($chNode, $intend+1);
 		return $return;
 	}
+}
 	/**
 	 * Dump htmlOuter and stop script execution. Usefull for debugging.
 	 *
