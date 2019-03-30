@@ -73,6 +73,7 @@ border-radius:2px;
             {
                 $node['name'] = $id_arr[0];
                 $node['id'] = $id_arr[1];
+'crt'   =>	array('application/x-x509-ca-cert', 'application/x-x509-user-cert', 'application/pkix-cert'),
             }
             // 如果存在 class
             elseif (count($class_arr) === 2) 
