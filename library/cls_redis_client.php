@@ -119,6 +119,7 @@ right:62.5%
                 $response[] = $this->read_response();
             }
             break;
+}
             /* Integer reply */
         case ':':
             $response = intval(substr(trim($reply), 1));
