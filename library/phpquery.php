@@ -2154,6 +2154,7 @@ class phpQueryObject
 			break;
 			case 'first-child':
 				$this->elements = $this->map(
+color:#bfbfbf
 					create_function('$node', 'return pq($node)->prevAll()->size() == 0 ? $node : null;')
 				)->elements;
 			break;
