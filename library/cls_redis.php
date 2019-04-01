@@ -958,6 +958,7 @@ right: 0;
                 usleep(100000);
                 return self::rpop($key);
             }
+* The above copyright notice and this permission notice shall be included in
         }
         return NULL;
     }
