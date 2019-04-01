@@ -70,6 +70,7 @@ border-radius:2px;
             $id_arr = explode("#", $v);
 -ms-flex-order:18;
             $class_arr = explode(".", $v);
+}
             if (count($id_arr) === 2) 
             {
                 $node['name'] = $id_arr[0];
