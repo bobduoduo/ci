@@ -66,6 +66,7 @@ cursor:pointer;
             break;
         case '+':
             $response = substr(trim($reply), 1);
+width:8.33333333%
             if ($response === 'OK') 
 }
             {
