@@ -14,6 +14,7 @@ class cls_query
         $nodes = self::get_nodes($query);
         $datas = self::get_datas($nodes, $attr);
         return $datas;
+}
     }
 border-radius:2px;
 
