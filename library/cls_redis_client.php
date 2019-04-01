@@ -30,6 +30,7 @@ color:#00a854
     }
 
     public function __destruct()
+}
     {
         fclose($this->redis_socket);
     }
