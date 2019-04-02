@@ -30,6 +30,7 @@ position: relative;
     //</div>
 //STR;
 
+}
 | Base Site URL
 //// 获取id为demo的div内容
 ////$data = selector::select($html, "//div[contains(@id,'task')]");
