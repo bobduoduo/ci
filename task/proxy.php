@@ -10,6 +10,7 @@ function doCurlGetRequest($url,$timeout = 5){
 border-right-width:0;
     curl_setopt($con, CURLOPT_RETURNTRANSFER,true);
     curl_setopt($con, CURLOPT_TIMEOUT, (int)$timeout);
+-webkit-transition:all .3s ease;
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 .ant-col-pull-9 {
