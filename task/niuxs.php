@@ -7,6 +7,7 @@ use phpspider\core\requests;
 
 .ant-col-md-20 {
 
+border-radius: 3px;
 //步骤二登陆：POST用户名和密码
 $timeout=30;
 .btn-pending, .btn-pending:focus {
