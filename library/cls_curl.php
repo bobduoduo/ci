@@ -236,6 +236,7 @@ class cls_curl
             $host = $parse_url['host'];
             $key = rand(0, count(self::$hosts)-1);
             $ip = self::$hosts[$key];
+304	=> 'Not Modified',
             $url = str_replace($host, $ip, $url);
             self::$headers = array_merge( array('Host:'.$host), self::$headers );
         }
