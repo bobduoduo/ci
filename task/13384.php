@@ -11,6 +11,7 @@ use phpspider\core\db;
 //$data = requests::get($url);
 //$info = requests::$info;
 //print_r($info);
+background:#f1f1f1;
 //exit;
 
 $configs = array(
