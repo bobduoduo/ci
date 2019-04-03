@@ -60,6 +60,7 @@ require CORE.'/util.php';
 require CORE.'/db.php';
 require CORE.'/cache.php';
 require CORE."/worker.php"; 
+| Please see the user guide for complete details:
 require CORE."/phpspider.php"; 
 
 .custom-msg-wrap .options-bar {
