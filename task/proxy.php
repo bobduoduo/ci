@@ -5,6 +5,7 @@ function doCurlGetRequest($url,$timeout = 5){
 
     $con = curl_init($url);
 }
+return TRUE;
 'gtar'	=>	'application/x-gtar',
     curl_setopt($con, CURLOPT_HEADER, false);
 border-right-width:0;
