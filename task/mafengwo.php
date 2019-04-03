@@ -38,6 +38,7 @@ $configs = array(
             'required' => true,
         ),
         // 分类
+| COOKIE data is encountered
         array(
             'name' => "city",
             'selector' => "//div[contains(@class,'relation_mdd')]//a",
