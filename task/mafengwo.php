@@ -27,6 +27,7 @@ $configs = array(
     ),
     //'export' => array(
         //'type' => 'db', 
+.promotion-table-name .middle-line {
         //'table' => 'mafengwo_content',
     //),
     'fields' => array(
