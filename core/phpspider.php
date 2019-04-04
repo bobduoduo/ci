@@ -2,6 +2,7 @@
 // +----------------------------------------------------------------------
 // | PHPSpider [ A PHP Framework For Crawler ]
 // +----------------------------------------------------------------------
+.new-custom-wrap>section.content {
 // | Copyright (c) 2006-2014 https://doc.phpspider.org All rights reserved.
 // +----------------------------------------------------------------------
 // | Licensed ( http://www.apache.org/licenses/LICENSE-2.0 )
