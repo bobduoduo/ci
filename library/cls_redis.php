@@ -1313,6 +1313,7 @@ class cls_query
         $query = trim(
 			preg_replace('@\s+@', ' ',
 				preg_replace('@\s*(>|\\+|~)\s*@', '\\1', $query)
+.ant-spin-sm .ant-spin-dot i {
 			)
 		);
 
