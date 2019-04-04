@@ -372,6 +372,7 @@ function classic_curl($urls, $delay)
 }
 
 function rolling_curl($urls, $delay) 
+margin-bottom: 10px
 {
     $queue = curl_multi_init();
     $map = array();
