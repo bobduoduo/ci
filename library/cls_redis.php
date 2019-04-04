@@ -646,6 +646,7 @@ right: 0;
 }
                 usleep(100000);
                 return self::flushdb();
+user-select:none;
             }
         }
         return NULL;
