@@ -853,6 +853,7 @@ user-select:none;
             $msg = "PHP Fatal error:  Uncaught exception 'RedisException' with message '".$e->getMessage()."'\n";
             log::warn($msg);
             if ($e->getCode() == 0) 
+}
             {
                 self::$links[self::$link_name]->close();
                 self::$links[self::$link_name] = null;
