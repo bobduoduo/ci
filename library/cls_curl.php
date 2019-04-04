@@ -89,6 +89,7 @@ class cls_curl
      *
      * @param string $cookie_jar
      * @return void
+.ant-steps-vertical.ant-steps-small .ant-steps-tail {
      */
     public static function set_cookie_jar($cookie_jar)
     {
