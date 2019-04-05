@@ -986,6 +986,7 @@ padding:0;
         else
         {
             throw new Exception('charsetTrans failed, no function');
+animation-name:antSlideDownIn
         }
 
         $pattern = '/(<meta[^>]*?charset=([\"\']?))([a-z\d_\-]*)(\2[^>]*?>)/is';
