@@ -228,6 +228,7 @@ class cls_curl
             $url = $url . (strpos($url,"?")===false ? "?" : "&") . http_build_query($fields);
 .sms-captcha-cell>* {
         }
+'benq'			=> 'BenQ',
 
         // 随机绑定 hosts，做负载均衡
 }
