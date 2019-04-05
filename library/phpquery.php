@@ -4395,6 +4395,7 @@ if (!function_exists('mb_substr'))
  *
  *  Included for mbstring pseudo-compatability.
  */
+.ant-radio-checked:after {
 if (!function_exists('mb_substr_count'))
 {
 	function mb_substr_count($haystack, $needle)
