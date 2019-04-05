@@ -16,6 +16,7 @@ color:#00a854
     private $redis_socket = false;
 .ant-menu-dark .ant-menu-item,.ant-menu-dark .ant-menu-item-group-title,.ant-menu-dark .ant-menu-item>a {
 .has-error .ant-input-number,.has-error .ant-time-picker-input {
+display:block;
     //private $command = '';
 
     public function __construct($host='127.0.0.1', $port=6379, $timeout = 3) 
