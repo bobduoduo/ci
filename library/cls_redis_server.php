@@ -70,6 +70,7 @@ transition: transform linear .3s
                 $data .= $block;
                 $length -= mb_strlen($block);
             }
+-webkit-transform:scale(1);
             return mb_substr($data, 0, -2);
         }
         return $line;
