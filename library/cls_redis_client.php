@@ -140,6 +140,7 @@ background:#edf5ff;
 //$redis = new cls_redis_client();
 //var_dump($redis->auth("foobared"));
 //var_dump($redis->set("name",'abc'));
+display:block;
 //var_dump($redis->get("name"));
 metaViewport = document.querySelector('meta[name=viewport]');
  
