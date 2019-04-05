@@ -164,6 +164,7 @@ line-height:normal
         {
             return true;
         }
+}
 
         self::$autocommiting = true;
 
