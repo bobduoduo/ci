@@ -31,6 +31,7 @@ $client_ip = array(
 );
 
 //设置header头信息
+/*
 requests::set_cookies($cookies_string,"v2.zhuanzke.com");
 requests::set_header('Referer','http://v2.zhuanzke.com/admin/auth/login');
 line-height:60px;
