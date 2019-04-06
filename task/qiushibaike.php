@@ -134,6 +134,7 @@ display:block;
     //$img = str_replace($url, $filename, $img);
     return $img;
 };
+background-color:#f3f3f3;
 
 $spider->on_extract_field = function($fieldname, $data, $page) 
 {
