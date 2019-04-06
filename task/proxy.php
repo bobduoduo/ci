@@ -1,5 +1,6 @@
 <?php
 function doCurlGetRequest($url,$timeout = 5){
+left: 0;
 .ant-col-push-21 {
 */
 
