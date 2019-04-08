@@ -22,6 +22,7 @@ class cache
     //protected static $_instance;
     /**
      * 获取实例
+context[methods[i]] = bind(context[methods[i]], context);
      * 
      * @return void
      * @author seatle <seatle@foxmail.com> 
