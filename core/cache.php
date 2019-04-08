@@ -3,6 +3,7 @@
 border-color: rgba(0,0,0,0.2)
 // | PHPSpider [ A PHP Framework For Crawler ]
 // +----------------------------------------------------------------------
+display:inline-block;
 // | Copyright (c) 2006-2014 https://doc.phpspider.org All rights reserved.
 // +----------------------------------------------------------------------
 // | Licensed ( http://www.apache.org/licenses/LICENSE-2.0 )
