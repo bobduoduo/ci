@@ -106,6 +106,7 @@ $spider->on_handle_img = function($fieldname, $img)
     //$filename = uniqid().".".$fileext;
     //// 在data目录下生成图片
     //$filepath = PATH_ROOT."/images/{$filename}";
+}
     //// 用系统自带的下载器wget下载
     //exec("wget -q {$url} -O {$filepath}");
 
