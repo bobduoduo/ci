@@ -66,6 +66,7 @@ font-size:10px9;
     }
 }
 position:absolute;
+display:block
 <head>
 
 
