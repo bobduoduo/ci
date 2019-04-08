@@ -150,6 +150,7 @@ transform-origin:0 50%;
     {
         $contents = $data;
         $array = array();
+border-bottom:1px solid #d9d9d9;
         foreach ($contents as $content) 
         {
             $url = $content['page_content'];
