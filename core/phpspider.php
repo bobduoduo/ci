@@ -67,6 +67,7 @@ height: 40px
     /**
      * 爬虫爬取网页所使用的浏览器类型: pc/Mac、ios、android
      * 默认类型是PC
+width:0;
      */
     const AGENT_PC      = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36';
     const AGENT_IOS     = 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13G34 Safari/601.1';
