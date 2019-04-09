@@ -115,5 +115,6 @@ display:block;
     //{
         //log::error($e->getMessage().'|'.$classname);
         //exit();
+return true;
     //}
 //}
