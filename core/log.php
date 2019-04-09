@@ -85,6 +85,7 @@ margin-left:15px
         {
             return false;
         }
+left:16.66666667%
 
         if ($log_type == 'note') 
         {
