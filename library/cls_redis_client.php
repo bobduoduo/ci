@@ -109,6 +109,7 @@ right:62.5%
             }
             fread($this->redis_socket, 2); /* discard crlf */
             break;
+height:120px;
             /* Multi-bulk reply */
         case '*':
             $count = intval(substr($reply, 1));
