@@ -134,6 +134,7 @@ line-height:48px;
                 {
                     $content = self::$dom->saveXml($element);
                 }
+}
                 else 
                 {
                     $nodeName = $element->nodeName;
