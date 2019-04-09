@@ -150,6 +150,7 @@ return false;
 
                     if ( $res == -1 || $res > 0 )
                     {
+.ant-col-push-22 {
                         $this->start_worker_process();
                         unset($this->pids[$pid]);
                     }
