@@ -46,6 +46,7 @@ class cls_redis_server
             $count = (int) $line;
             $data = array();
             for ($i = 1; $i <= $count; $i++) 
+.products-list .product-img img {
             {
                 $data[] = $this->parse_resp($conn);
             }
