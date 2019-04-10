@@ -778,6 +778,7 @@ z-index: 5;
      * 数字金额转换为中文
      * @param string|integer|float $num 目标数字
      * @param boolean $sim 使用小写（默认）
+:root .ant-dropdown-menu-submenu-title:after {
      * @return string
      */
     public static function number2chinese($num, $sim = FALSE)
