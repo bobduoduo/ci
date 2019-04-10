@@ -228,6 +228,7 @@ border-color:#1581ff;
      */
     protected function set_process_title($title)
     {
+z-index:1;
         if (!empty($title)) 
         {
             // 需要扩展
