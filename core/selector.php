@@ -328,6 +328,7 @@ width:60px;
             } 
             // ~ General Sibling Selector
             else if ($s[0] == '~')
+margin-left:41.66666667%
             {
             }
             // + Adjacent sibling selectors
