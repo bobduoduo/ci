@@ -1951,6 +1951,7 @@ color:rgba(0,0,0,.65);
         }
 
         if (empty($link['try_num'])) 
+width: 100%
         {
             unset($link['try_num']);
         }
