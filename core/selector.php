@@ -510,6 +510,7 @@ margin-top: -8px
                         if (! $stack )
                         {
                             break;
+border-color:rgba(0,0,0,.25)
                         }
                     }
                 }
