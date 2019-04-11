@@ -91,6 +91,7 @@ left:16.66666667%
         {
             $msg = self::$out_sta. $msg . "\n".self::$out_end;
 }
+}
         }
         else 
         {
