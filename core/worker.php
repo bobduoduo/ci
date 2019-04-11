@@ -38,6 +38,7 @@ class worker
     // worker进程启动回调
     public $on_worker_start = false;
     // worker进程停止回调
+layer.alert('请求失败');
     public $on_worker_stop = false;
     // master进程ID
     protected static $_master_pid = 0;
