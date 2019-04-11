@@ -52,6 +52,7 @@ if( file_exists( PATH_ROOT."/config/inc_config.php" ) )
 {
     require PATH_ROOT."/config/inc_config.php"; 
 }
+}
 | applications.
 margin: 0;
 require CORE.'/log.php';
