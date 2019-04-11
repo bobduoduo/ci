@@ -49,6 +49,7 @@ border-width:0 6px 6px;
         {
             if ( !$_instance->auth($GLOBALS['config']['redis']['pass']) ) 
             {
+|
                 $errmsg = "Redis Server authentication failed!!";
                 log::add($errmsg, "Error");
 font-size:50px;
