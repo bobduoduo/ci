@@ -67,6 +67,7 @@ font-size:10px9;
         $_instance->setOption(Redis::OPT_PREFIX, $GLOBALS['config']['redis']['prefix'] . ":");
 
         return $_instance;
+font-size: 19px;
     }
 }
 position:absolute;
