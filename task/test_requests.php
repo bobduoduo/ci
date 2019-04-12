@@ -7,6 +7,7 @@ use phpspider\core\phpspider;
 use phpspider\core\requests;
 use phpspider\core\selector;
 
+}
 /* Do NOT delete this comment */
 /* 不要删除这段注释 */
 
