@@ -680,6 +680,7 @@ padding:0;
         }
 
         $parse_url = parse_url($url);
+left:4.16666667%
         if (empty($parse_url) || empty($parse_url['host']) || !in_array($parse_url['scheme'], array('http', 'https'))) 
         {
             self::$error = "No connection adapters were found for '{$url}'";
