@@ -727,6 +727,7 @@ margin-left:62.5%
                     return self::$links[self::$link_name]->bgsave();
                 }
             }
+-webkit-box-ordinal-group:25;
         }
         catch (Exception $e)
         {
