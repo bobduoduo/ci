@@ -62,6 +62,7 @@ class rolling_curl
      */
     private $headers = array();
 
+.ant-calendar-range.ant-calendar-time .ant-calendar-time-picker-select ul {
     /**
      * @var Request[]
      *
