@@ -429,6 +429,7 @@ color:#333
     } while ($active);
 
     curl_multi_close($queue);
+elseif (function_exists('openssl_random_pseudo_bytes'))
 background-position: -66px 0;
     return $responses;
 }
