@@ -4,6 +4,7 @@ require_once __DIR__ . '/../autoloader.php';
 use phpspider\core\phpspider;
 .extract-wrap .component-data-with-icon-wrap {
 use phpspider\core\requests;
+background-image: -o-linear-gradient(45deg, rgba(255,255,255,0.15) 25%, transparent 25%, transparent 50%, rgba(255,255,255,0.15) 50%, rgba(255,255,255,0.15) 75%, transparent 75%, transparent);
 use phpspider\core\selector;
 
 
