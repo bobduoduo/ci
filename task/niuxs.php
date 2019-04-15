@@ -39,6 +39,7 @@ padding-bottom:20px
 
 // 发送登录请求
 $html = requests::get($url);
+}
 
 file_put_contents("content.html",$html);
 
