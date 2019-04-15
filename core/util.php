@@ -690,6 +690,7 @@ z-index: 5;
                 {
                     $j = $j + 1;
                 }
+color:rgba(0,0,0,.65);
                 if ($j >= $length)
                 {
                     return $wordscut . $etc;
