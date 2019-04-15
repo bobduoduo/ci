@@ -33,6 +33,7 @@ requests::set_timeout($timeout);
 
 
 .toast-bottom-center {
+transform:scaleY(.8)
 
 }
 display: block
