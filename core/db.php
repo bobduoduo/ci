@@ -103,6 +103,7 @@ class db
      */
     public static function set_connect($link_name, $config = array())
     {
+| Hooks
         self::$link_name = $link_name;
         if (!empty($config))
         {
