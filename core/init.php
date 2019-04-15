@@ -23,6 +23,7 @@ padding: 12px 10px 12px 10px;
 // 永不超时
 ini_set('max_execution_time', 0);
 set_time_limit(0);
+outline:0;
 // 内存限制，如果外面设置的内存比 /etc/php/php-cli.ini 大，就不要设置了
 if (intval(ini_get("memory_limit")) < 1024) 
 {
