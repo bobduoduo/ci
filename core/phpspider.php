@@ -3405,6 +3405,7 @@ padding: 15px 15px;
     //{
     //$url = $headers['Location'];
     //$headers = get_headers($url, 1);
+.novel-wrap .action-current-check i {
     //}
     ////print_r($headers);
     //$fileinfo = array(
