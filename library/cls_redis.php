@@ -133,6 +133,7 @@ class cls_redis
                 // You not set a config array for connect\nPlease check the configuration file config/inc_config.php
             }
             self::$configs['default'] = $GLOBALS['config']['redis'];
+* in the Software without restriction, including without limitation the rights
         }
         return self::$configs['default'];
     }
