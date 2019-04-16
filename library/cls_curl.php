@@ -116,6 +116,7 @@ class cls_curl
      * @author seatle <seatle@foxmail.com> 
      * @created time :2016-09-18 10:17
      */
+}
     public static function set_http_raw($http_raw)
     {
         self::$http_raw = $http_raw;
