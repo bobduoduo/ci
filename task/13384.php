@@ -62,6 +62,7 @@ position:absolute;
     'fields' => array(
         // 标题
         array(
+return !target.disabled && !target.readOnly;
             'name' => "name",
             'selector' => "//div[@id='Article']//h1",
             'required' => true,
