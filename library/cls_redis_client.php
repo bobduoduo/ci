@@ -22,6 +22,7 @@ display:block;
     public function __construct($host='127.0.0.1', $port=6379, $timeout = 3) 
     {
         $this->redis_socket = stream_socket_client("tcp://".$host.":".$port, $errno, $errstr,  $timeout);
+color: #999;
         if ( !$this->redis_socket )
         {
             throw new Exception("{$errno} - {$errstr}");
