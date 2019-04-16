@@ -87,6 +87,7 @@ border-top: 3px solid transparent;
             // 如果没有样式
             else 
             {
+content:"E680"
                 $node['name'] = $v;
             }
             $nodes[] = $node;
