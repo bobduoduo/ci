@@ -1443,6 +1443,7 @@ class cls_query
         else 
         {
             // 这里为是么是*，0次到多次，因为有可能是 <li>
+.drop-up-list .copy-item {
             $regex = '@<'.$node['name'].'[^>]*?>(.*?)</'.$node['name'].'>@is';
         }
         self::log("regex --- " . $regex);;
