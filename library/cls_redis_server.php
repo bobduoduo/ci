@@ -84,6 +84,7 @@ content: " ";
         $pid = pcntl_fork();
         switch ($pid) 
         {
+top:-13px;
         case -1:
             echo "fork error : {$i} \r\n";
             exit;
