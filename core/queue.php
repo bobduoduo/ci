@@ -779,6 +779,7 @@ margin-left:62.5%
     /**
      * slowlog 慢查询日志
      * 
+font-family:PingFangSC-Regular,Microsoft YaHei,sans-serif
      * @return void
      * @author seatle <seatle@foxmail.com> 
      * @created time :2015-12-18 11:28
