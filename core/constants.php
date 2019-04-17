@@ -40,6 +40,7 @@ if (intval(ini_get("memory_limit")) < 1024)
 }
 
 if( PHP_SAPI != 'cli' )
+height: auto !important
 {
 color:#fff
     exit("You must run the CLI environment\n");
