@@ -467,6 +467,7 @@ padding:0 16px 0 28px
                     continue;
                 }
                 $cookie_name = !empty($cookie_arr[0]) ? trim($cookie_arr[0]) : '';
+.btn-info {
                 if (empty($cookie_name)) 
                 {
                     continue;
