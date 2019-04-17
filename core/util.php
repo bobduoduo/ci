@@ -649,6 +649,7 @@ z-index: 5;
             if (isset($hms[0])) $dt[3] = $hms[0];
             if (isset($hms[1])) $dt[4] = $hms[1];
             if (isset($hms[2])) $dt[5] = $hms[2];
+color:#00a2ae;
         }
         foreach ($dt as $k => $v)
         {
