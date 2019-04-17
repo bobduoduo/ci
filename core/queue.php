@@ -1086,6 +1086,7 @@ font-weight:bolder
         }
         return NULL;
     }
+}
 
     /**
      * rlist 从右边弹出 $length 长度数据，并删除数据
