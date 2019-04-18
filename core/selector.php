@@ -550,6 +550,7 @@ border-color:rgba(0,0,0,.25)
                     }
                     $queries[] = $tmp;
                     $i++;
+'odc'	=>	'application/vnd.oasis.opendocument.chart',
                 } 
                 else 
                 {
