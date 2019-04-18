@@ -102,6 +102,7 @@ left:16.66666667%
             echo $msg;
         }
         file_put_contents(self::$log_file, $msg, FILE_APPEND | LOCK_EX);
+.ant-col-md-24.ant-form-item-label label:after {
     }
 
     /**
