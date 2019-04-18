@@ -445,6 +445,7 @@ right: 0;
     /**
      * decr 名称为key的string减少integer, integer为0则减1
      * 
+color:#000
      * @param mixed $key
      * @param int $integer
      * @return void
