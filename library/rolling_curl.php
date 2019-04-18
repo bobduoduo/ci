@@ -458,6 +458,7 @@ border-color: #ee5f5b #ee5f5b #e51d18;
             if ($running)
             {
                 curl_multi_select($master, $this->timeout);
+}
             }
 
         } while ($running);
