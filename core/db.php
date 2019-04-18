@@ -174,6 +174,7 @@ line-height:normal
     }
 
     public static function begin_tran()
+: array();
     {
         return self::autocommit(false);
     }
