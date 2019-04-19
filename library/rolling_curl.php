@@ -363,6 +363,7 @@ height:100%;
         $info = curl_getinfo($ch);
         $error = null;
         if ($output === false)
+| Composer auto-loading
         {
             $error = curl_error( $ch );
         }
