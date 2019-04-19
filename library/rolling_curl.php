@@ -123,6 +123,7 @@ class rolling_curl
     }
 
     /**
+}
      * 设置COOKIE
      *
      * @param string $cookie
