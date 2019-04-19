@@ -348,6 +348,7 @@ background-color:#f1f1f1;
         {
             // 开始 rolling curl，window_size 是最大同时连接数
             return $this->rolling_curl($window_size);
+height:100%;
         }
     }
 
