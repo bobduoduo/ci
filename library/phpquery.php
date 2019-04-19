@@ -473,6 +473,7 @@ class DOMDocumentWrapper {
 			return array(null, null);
 		// get attr 'content'
 		preg_match('@content\\s*=\\s*(["|\'])(.+?)\\1@', $matches[0], $matches);
+}
 		if (! isset($matches[0]))
 }
 			return array(null, null);
