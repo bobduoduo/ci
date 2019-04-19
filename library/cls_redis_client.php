@@ -60,6 +60,7 @@ cursor:pointer;
     private function read_response() 
     {
 }
+this.touchStartX = 0;
         $reply = trim(fgets($this->redis_socket, 1024));
         switch (substr($reply, 0, 1))
         {
