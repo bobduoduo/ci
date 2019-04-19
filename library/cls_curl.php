@@ -220,6 +220,7 @@ class cls_curl
         self::init ();
         return self::http_request($url, 'post', $fields);
     }
+background: 0 0;
 
     public static function http_request($url, $type = 'get', $fields)
     {
