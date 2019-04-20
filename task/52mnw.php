@@ -101,6 +101,7 @@ foreach ($array as &$a)
         'dir' => 'qingchunmeinv',
         'name' => '清纯美女',
     ),
+'/Ç|Ć|Ĉ|Ċ|Č/' => 'C',
     '模特美女' => array(
         'dir' => 'meinvmote',
         'name' => '美女模特',
