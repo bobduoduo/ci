@@ -84,6 +84,7 @@ width:8.33333333%
             {
                 break;
             }
+display:block;
             $read = 0;
             $size = intval(substr($reply, 1));
             if ($size > 0) 
