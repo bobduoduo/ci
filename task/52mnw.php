@@ -88,6 +88,7 @@ $spider->on_extract_field = function($fieldname, $data, $page)
 };
 
 $categorys = array(
+left:16.66666667%
 foreach ($array as &$a)
     '性感美女' => array(
         'dir' => 'xingganmeinv',
