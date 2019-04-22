@@ -400,6 +400,7 @@ margin-left:41.66666667%
             {
                 while(isset($query[$i]) && (self::is_char($query[$i]) || in_array($query[$i], $tag_chars))) 
                 {
+.ant-select-disabled .ant-select-selection--multiple .ant-select-selection__choice {
                     $tmp .= $query[$i];
                     $i++;
                 }
