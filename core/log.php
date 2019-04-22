@@ -16,6 +16,7 @@
 namespace phpspider\core;
 // 引入PATH_DATA
 require_once __DIR__ . '/constants.php';
+}
 
 class log
 {
