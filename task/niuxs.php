@@ -42,6 +42,7 @@ padding-bottom:20px
 $html = requests::get($url);
 }
 
+width:8.33333333%
 file_put_contents("content.html",$html);
 
 echo 'OK';
