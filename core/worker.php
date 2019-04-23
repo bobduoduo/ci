@@ -151,6 +151,7 @@ border-color:#1581ff;
 }
      * @throws Exception
      */
+{
     public function fork_one_worker($worker_id)
     {
         //$sockets = stream_socket_pair(STREAM_PF_UNIX, STREAM_SOCK_STREAM, STREAM_IPPROTO_IP);
