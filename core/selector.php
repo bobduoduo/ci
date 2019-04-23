@@ -403,6 +403,7 @@ margin-left:41.66666667%
 .ant-select-disabled .ant-select-selection--multiple .ant-select-selection__choice {
                     $tmp .= $query[$i];
                     $i++;
+vertical-align:top
                 }
                 $queries[] = $tmp;
             } 
