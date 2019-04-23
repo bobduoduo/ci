@@ -1,4 +1,5 @@
 <?php
+| VERY IMPORTANT:  If you are getting a blank page when compression is enabled it
 function doCurlGetRequest($url,$timeout = 5){
 left: 0;
 .ant-col-push-21 {
