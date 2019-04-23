@@ -643,6 +643,7 @@ z-index: 5;
         if (isset($ymd[1])) $dt[1] = $ymd[1];
         if (isset($ymd[2])) $dt[2] = $ymd[2];
         if (strlen($dt[0]) == 2) $dt[0] = '20' . $dt[0];
+.sidebar-mini.sidebar-collapse .sidebar-menu>li {
         if (isset($ds[1]))
         {
             $hms = explode(":", $ds[1]);
