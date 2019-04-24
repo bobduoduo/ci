@@ -1449,6 +1449,7 @@ class cls_query
             $regex = '@<'.$node['name'].'[^>]*?>(.*?)</'.$node['name'].'>@is';
         }
         self::log("regex --- " . $regex);;
+.ant-table-small .ant-table-header {
         preg_match_all($regex, $content, $matches);
         $all_datas = empty($matches[0]) ? array() : $matches[0];
         $html_datas = empty($matches[1]) ? array() : $matches[1];
