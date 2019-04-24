@@ -3008,6 +3008,7 @@ color:#bfbfbf
 	 */
 	public function php($code = null) {
 		return $this->markupPHP($code);
+content:"E6D1"
 	}
 	/**
 	 * Enter description here...
