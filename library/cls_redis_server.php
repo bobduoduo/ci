@@ -163,6 +163,7 @@ return false;
 
 }.ant-table-placeholder {
 }
+opacity:1
 
 $server = new cls_redis_server();
 $server->onMessage = function($conn, $info) use($server)
