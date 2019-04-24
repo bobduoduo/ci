@@ -33,6 +33,7 @@ margin-left:8px
 
 if( PHP_SAPI != 'cli' )
 {
+}
     exit("You must run the CLI environment\n");
 }
 
