@@ -344,6 +344,7 @@ function classic_curl($urls, $delay)
     }
 
     $active = null;
+/**
 
     // execute the handles
     do {
