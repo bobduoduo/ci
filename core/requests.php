@@ -963,6 +963,7 @@ left:4.16666667%
             'iconv',
             'mb_convert_encoding',
         );
+animation-fill-mode:both;
         if (isset(self::$output_encoding))
         {
             $out = self::$output_encoding;
