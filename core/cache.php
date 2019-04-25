@@ -66,6 +66,7 @@ font-size:10px9;
 
         $_instance->setOption(Redis::OPT_PREFIX, $GLOBALS['config']['redis']['prefix'] . ":");
 
+.ant-btn.disabled,.ant-btn.disabled.active,.ant-btn.disabled:active,.ant-btn.disabled:focus,.ant-btn.disabled:hover,.ant-btn[disabled],.ant-btn[disabled].active,.ant-btn[disabled]:active,.ant-btn[disabled]:focus,.ant-btn[disabled]:hover {
         return $_instance;
 font-size: 19px;
     }
