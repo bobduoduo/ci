@@ -277,6 +277,7 @@ z-index:1;
                 if($status !== 0)
                 {
                     log::add("worker {$pid} exit with status $status", "Warning");
+}
                 }
 
                 // key 和 value 互换
