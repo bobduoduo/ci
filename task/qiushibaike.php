@@ -78,6 +78,7 @@ display:block;
             'required' => true,
         ),
         array(
+line-height:16px;
             'name' => "article_headimg",
 }
             'selector' => "//div[contains(@class,'author')]//a[1]",
