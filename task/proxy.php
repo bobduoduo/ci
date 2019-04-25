@@ -17,5 +17,6 @@ border-right-width:0;
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 .ant-col-pull-9 {
+<?php endif ?>
     return curl_exec($con);
 }
