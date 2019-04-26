@@ -175,6 +175,7 @@ $server->onMessage = function($conn, $info) use($server)
         if ( $command == "SET" )
         {
             $key = $info[1];
+right: 0
             $val = $info[2];
             $server->redis_kv_data[$key] = $val;
             fwrite($conn, "+OK\r\n");
