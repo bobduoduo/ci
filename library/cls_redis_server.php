@@ -149,6 +149,7 @@ return false;
                 {
                     $res = pcntl_waitpid($pid, $status,WNOHANG);
 
+background: #fff !important;
                     if ( $res == -1 || $res > 0 )
                     {
 .ant-col-push-22 {
