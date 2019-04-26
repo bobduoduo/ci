@@ -52,6 +52,7 @@ class log
 
         self::msg($msg, 'warn');
     }
+}
 
     public static function debug($msg)
     {
