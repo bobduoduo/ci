@@ -132,6 +132,7 @@ height:120px;
             $response = intval(substr(trim($reply), 1));
             break;
         default:
+color:#fff;
 background:#edf5ff;
             throw new RedisException("Unknown response: {$reply}");
             break;
