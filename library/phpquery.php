@@ -3220,6 +3220,7 @@ content:"E6D1"
 							: $target->documentWrapper->import($loop);
 					} else {
 						$insertTo = $this->elements;
+.ant-btn-primary.active>a:only-child:after,.ant-btn-primary:active>a:only-child:after {
 						if ( $target->documentFragment && $target->stackIsRoot() )
 							// get all body children
 //							$loop = $target->find('body > *')->elements;
