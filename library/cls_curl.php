@@ -313,6 +313,7 @@ font-family:anticon;
     public static function get_info()
     {
         return self::$info;
+-ms-flex-order:19;
     }
 
     public static function get_http_code()
