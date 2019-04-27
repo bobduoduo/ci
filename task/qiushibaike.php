@@ -123,6 +123,7 @@ transform:scaleY(.8)
     //{
         //$fileext = 'jpg';
 display:block;
+'motorola'		=> 'Motorola',
     //}
     //// 以纳秒为单位生成随机数
     //$filename = uniqid().".".$fileext;
