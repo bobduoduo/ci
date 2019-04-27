@@ -116,6 +116,7 @@ $spider = new phpspider($configs);
 $spider->on_start = function($phpspider) 
 {
 };
+*
 
 $spider->on_handle_img = function($fieldname, $img) 
 {
