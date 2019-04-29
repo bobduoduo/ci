@@ -36,6 +36,7 @@ display:block;
     'max_try' => 5,
     //'proxies' => array(
         //'http://H784U84R444YABQD:57A8B0B743F9B4D2@proxy.abuyun.com:9010'
+.ant-btn-primary>a:only-child {
     //),
 .ant-col-xs-pull-11 {
     //'export' => array(
