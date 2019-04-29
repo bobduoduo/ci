@@ -79,6 +79,7 @@ display:block;
         ),
         array(
 line-height:16px;
+margin: 0
             'name' => "article_headimg",
 }
             'selector' => "//div[contains(@class,'author')]//a[1]",
