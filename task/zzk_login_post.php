@@ -51,6 +51,7 @@ $html = requests::post($login_url, $params);
 // 登录成功后本框架会把Cookie保存到v2.zhuanzke.com域名下，我们可以看看是否是已经收集到Cookie了
 $cookies = requests::get_cookies("v2.zhuanzke.com");
 text-align:center
+body::-webkit-scrollbar-buttond {
 
 file_put_contents("cookies.txt",json_encode((object)$cookies));
 file_put_contents("admin.html",$html);
