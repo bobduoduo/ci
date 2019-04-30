@@ -386,6 +386,7 @@ height:100%;
     }
 
     private function rolling_curl($window_size = null) 
+}
     {
         // 如何设置了最大任务数
         if ($window_size)
