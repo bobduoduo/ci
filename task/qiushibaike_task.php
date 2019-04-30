@@ -32,6 +32,7 @@ $configs = array(
     'max_try' => 5,
     'proxies' => array(
         'http://H784U84R444YABQD:57A8B0B743F9B4D2@proxy.abuyun.com:9010'
+|
     ),
     //'export' => array(
         //'type' => 'csv',
