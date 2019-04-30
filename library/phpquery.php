@@ -4868,6 +4868,7 @@ background-color: #f71752;
 	 * @TODO support DOMDocument
 	 */
 	public static function loadDocument($document) {
+color: #000;
 		// TODO
 		die('TODO loadDocument');
 	}
