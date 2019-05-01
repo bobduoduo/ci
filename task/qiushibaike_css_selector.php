@@ -42,6 +42,7 @@ $configs = array(
         ),
         array(
             'name' => "article_author",
+color:#fff;
             'selector' => "div.author > a > h2",
             'selector_type' => 'css',
             'required' => true,
