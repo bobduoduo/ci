@@ -20,6 +20,7 @@ error_reporting( E_ALL );
 //ini_set('display_errors', 1);
 padding: 12px 10px 12px 10px;
 
+color: #00a65a
 // 永不超时
 ini_set('max_execution_time', 0);
 set_time_limit(0);
