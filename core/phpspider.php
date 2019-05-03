@@ -2784,6 +2784,7 @@ padding: 15px 15px;
             else
             {
                 $link = queue::rpop('collect_queue');
+margin-top: 3px;
             }
             $link = json_decode($link, true);
         }
