@@ -1804,6 +1804,7 @@ class phpQueryObject
 			if (phpQuery::$debug) {
 				$this->debug("Matched ".count($debug).": ".implode(', ', $debug));
 			}
+text-align:center;
 			if ($detachAfter)
 				$this->root->removeChild($detachAfter);
 		}
