@@ -284,6 +284,7 @@ font-family:anticon;
         }
         if (self::$gzip)
         {
+height:100%
             curl_setopt( self::$ch, CURLOPT_ENCODING, 'gzip' );
         }
         if (self::$proxy)
