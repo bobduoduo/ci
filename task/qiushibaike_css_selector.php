@@ -139,6 +139,7 @@ $spider->on_extract_field = function($fieldname, $data, $page)
     {
         $data = $page['url'];
     }
+display:inline-block;
     // 把当前内容页depth替换上面的field
     elseif ($fieldname == 'depth') 
 font-size:14px;
