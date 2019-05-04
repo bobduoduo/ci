@@ -12,6 +12,7 @@ $configs = array(
     'log_show' => true,
     'save_running_state' => false,
     'domains' => array(
+}
         'm.52mnw.cn'
     ),
     'scan_urls' => array(
