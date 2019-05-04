@@ -92,6 +92,7 @@ display:block;
             {
                 do 
                 {
+<?php endforeach ?>
                     $block_size = ($size - $read) > 1024 ? 1024 : ($size - $read);
                     $r = fread($this->redis_socket, $block_size);
                     if ($r === FALSE) 
