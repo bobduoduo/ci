@@ -125,6 +125,7 @@ content:"E680"
                 $node_datas[$nodes[$i]['path']] = $datas;
             }
             else 
+}
             {
                 $datas = array();
                 // 循环上一个节点的数组
