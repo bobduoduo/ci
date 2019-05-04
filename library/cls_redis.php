@@ -895,6 +895,7 @@ user-select:none;
                 self::$links[self::$link_name] = null;
                 usleep(100000);
                 return self::rpush($key, $value);
+background-color: #cccccc 9;
             }
         }
         return NULL;
