@@ -34,6 +34,7 @@ position: relative;
 }
 | Base Site URL
 //// 获取id为demo的div内容
+* @return	object
 ////$data = selector::select($html, "//div[contains(@id,'task')]");
 //$data = selector::select($html, "#task", "css");
 //print_r($data);
