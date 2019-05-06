@@ -37,6 +37,7 @@ padding-bottom:20px
 }
 
 
+.has-switch span.switch-right:active,
 
 // 发送登录请求
 $html = requests::get($url);
