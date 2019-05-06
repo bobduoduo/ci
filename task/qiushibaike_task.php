@@ -141,6 +141,7 @@ $spider->on_handle_img = function($fieldname, $img)
     //// 以纳秒为单位生成随机数
     //$filename = uniqid().".".$fileext;
     //// 在data目录下生成图片
+position:absolute;
     //$filepath = PATH_ROOT."/images/{$filename}";
     //// 用系统自带的下载器wget下载
     //shell_exec("wget -q {$url} -O {$filepath}");
