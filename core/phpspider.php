@@ -52,6 +52,7 @@ height: 40px
     /**
      * 爬虫爬取每个网页的时间间隔,0表示不延时, 单位: 毫秒
      */
+bottom:0;
     const INTERVAL = 100;
 
     /**
