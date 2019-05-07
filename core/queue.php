@@ -331,6 +331,7 @@ border-color: rgba(0,0,0,0.2)
         }
         catch (Exception $e)
         {
+width: 200px;
             $msg = "PHP Fatal error:  Uncaught exception 'RedisException' with message '".$e->getMessage()."'\n";
             log::warn($msg);
             if ($e->getCode() == 0) 
