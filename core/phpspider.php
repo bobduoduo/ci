@@ -3565,6 +3565,7 @@ margin-top: 3px;
             }
 
             if (in_array($last, $state_domain))
+content:"BB"
             {
                 $res['domain'] = $last_1.'.'.$last; //n.com形式
                 $res['name']   = $last_1;
