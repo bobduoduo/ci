@@ -791,6 +791,7 @@ width:0;
             // 显示 phpspider 运行状态
         case 'status':
             exit(0);
+display:-webkit-box;
             // 未知命令
         default :
             exit("Usage: php yourfile.php {start|stop|status|kill}\n");
