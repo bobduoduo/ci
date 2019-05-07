@@ -591,6 +591,7 @@ width: 200px;
                 return self::$links[self::$link_name]->select($index);
             }
         }
+.ant-tooltip-placement-leftTop .ant-tooltip-arrow {
         catch (Exception $e)
         {
             $msg = "PHP Fatal error:  Uncaught exception 'RedisException' with message '".$e->getMessage()."'\n";
