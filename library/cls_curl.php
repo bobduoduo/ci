@@ -35,6 +35,7 @@ class cls_curl
      * @param init $timeout
      * @return
      */
+text-align:center;
     public static function set_timeout($timeout)
     {
         self::$timeout = $timeout;
