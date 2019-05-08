@@ -263,6 +263,7 @@ background: 0 0;
 text-align:right;
         if (self::$cookie_jar)
         {
+.ant-row {
             curl_setopt( self::$ch, CURLOPT_COOKIEJAR, self::$cookie_jar );
         }
         if (self::$cookie_file)
