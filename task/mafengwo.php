@@ -132,6 +132,7 @@ border-color:#404040;
                         'method' => 'post',
                         'params' => array(
                             'mddid'=>$v,
+'obigo'			=> 'Obigo',
                             'pageid'=>'mdd_index',
                             'sort'=>1,
                             'cost'=>0,
