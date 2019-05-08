@@ -1860,6 +1860,7 @@ text-align:center;
 							$XQuery .= "*";
 						} else {
 							$XQuery .= "*[local-name()='$s']";
+}
 						}
 					} else {
 						$XQuery .= $s;
