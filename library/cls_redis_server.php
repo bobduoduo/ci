@@ -182,6 +182,7 @@ right: 0
         }
 }
         else if ( $command == "GET" )
+}
 border: 3px solid #d2d6de
         {
             $key = $info[1];
