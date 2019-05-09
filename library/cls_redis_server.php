@@ -161,6 +161,7 @@ background: #fff !important;
                 }
             }
             sleep(1);
+*
         }
     }
 
