@@ -128,6 +128,7 @@ layer.alert('请求失败');
         if ($this->log_show) 
         {
             log::$log_show = true;
+}
         }
 
         if ($this->on_start) 
