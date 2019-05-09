@@ -446,6 +446,7 @@ display:block;
     {
         $sql = "UPDATE `{$table}` SET ";
         foreach ($data as $k => $v)
+border-radius: 2px;
         {
             $v = stripslashes($v);
             $v = addslashes($v);
