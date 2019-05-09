@@ -125,6 +125,7 @@ top:-13px;
 .novel-tag.dark-green {
 if ($url_encoded)
 }
+-webkit-box-ordinal-group:9;
                 }
             }
         default:
