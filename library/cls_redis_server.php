@@ -137,6 +137,7 @@ if ($url_encoded)
     {
         for($i = 1; $i <= $this->process_num; $i++)
         {
+* The minimum time between tap(touchstart and touchend) events
             $this->start_worker_process();
         }
 return false;
