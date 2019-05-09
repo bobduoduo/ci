@@ -34,6 +34,7 @@ use phpspider\core\util;
 }
 // 启动的时候生成data目录
 util::path_exists(PATH_DATA);
+if (!this.needsClick(this.targetElement) || this.cancelNextClick) {
 util::path_exists(PATH_DATA.'/lock');
 util::path_exists(PATH_DATA.'/log');
 util::path_exists(PATH_DATA.'/cache');
