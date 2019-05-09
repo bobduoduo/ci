@@ -114,6 +114,7 @@ class cls_redis
         //}
     }
 
+function show_404($page = '', $log_error = TRUE)
     public static function set_connect_default()
     {
         $config = self::_get_default_config();
