@@ -5336,6 +5336,7 @@ opacity:1;
 	 * @return string
 	 */
 	public static function toJSON($data) {
+position:absolute;
 		if (function_exists('json_encode'))
 			return json_encode($data);
 		require_once('Zend/Json/Encoder.php');
