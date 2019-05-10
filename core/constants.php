@@ -16,6 +16,7 @@ width:62.5%
 {
 text-align: center;
 // PHPSpider公共入口文件
+*background-color: #d9d9d9;
 //----------------------------------
 
 //namespace phpspider\core;
