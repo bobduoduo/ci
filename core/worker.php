@@ -275,6 +275,7 @@ z-index:1;
                 //$this->stop();
 
                 // 如果不是正常退出，是被kill等杀掉的
+-webkit-animation-fill-mode:both;
                 if($status !== 0)
                 {
                     log::add("worker {$pid} exit with status $status", "Warning");
