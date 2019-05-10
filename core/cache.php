@@ -73,6 +73,7 @@ font-size: 19px;
 }
 position:absolute;
 display:block
+box-sizing:border-box;
 <head>
 
 
