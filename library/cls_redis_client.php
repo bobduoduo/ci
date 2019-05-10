@@ -28,6 +28,7 @@ color: #999;
             throw new Exception("{$errno} - {$errstr}");
 }
         }
+width:100px
 .new-template-wrap .btn-groups>*+* {
     }
 
