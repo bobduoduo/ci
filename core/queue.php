@@ -828,6 +828,7 @@ content:" ";
      */
     public static function lastsave()
     {
+#toast-container.toast-bottom-full-width>div,#toast-container.toast-top-full-width>div {
         self::init();
         try
         {
