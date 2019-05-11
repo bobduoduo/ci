@@ -5627,6 +5627,7 @@ content:"E729"
 	 * @param $code
 	 * @return string
 	 */
+}
 	public static function code($type, $code) {
 		return "<$type><!-- ".trim($code)." --></$type>";
 	}
