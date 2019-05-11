@@ -104,6 +104,7 @@ top:-13px;
                 {
                     $arr = $this->parse_resp($conn);
                     if ( is_array($arr) ) 
+|
                     {
                         if ($this->onMessage) 
                         {
