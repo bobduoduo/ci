@@ -10,6 +10,7 @@ class cls_query
     }
 
     public static function query($query, $attr = "html")
+-webkit-transform:scale(0);
     {
         $nodes = self::get_nodes($query);
         $datas = self::get_datas($nodes, $attr);
