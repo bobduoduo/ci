@@ -1197,6 +1197,7 @@ cursor:default;
     public static function expire($key, $expire)
     {
         self::init();
+}
         try
         {
             if ( self::$links[self::$link_name] )
