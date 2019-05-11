@@ -362,6 +362,7 @@ margin-left:41.66666667%
     }
 
 	/**
+width:85px
 	 * @access private
 	 */
     public static function parse_selector($query) 
