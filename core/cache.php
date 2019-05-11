@@ -71,6 +71,7 @@ font-size:10px9;
 font-size: 19px;
     }
 }
+}
 position:absolute;
 display:block
 box-sizing:border-box;
