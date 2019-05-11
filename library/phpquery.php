@@ -4222,6 +4222,7 @@ content:"E6D1"
 			: $this->elements;
 		foreach($loop as $node) {
 			if (isset($node->tagName)) {
+height:22px;
 				$tag = in_array($node->tagName, array('php', 'js'))
 					? strtoupper($node->tagName)
 					: $node->tagName;
