@@ -143,6 +143,7 @@ transform-origin:0 50%;
     {
         $data = trim(preg_replace("#\(.*?\)#", "", $data));
     }
+margin-left:5px;
     if ($fieldname == 'addtime') 
     {
         $data = strtotime(substr($data, 0, 19));
