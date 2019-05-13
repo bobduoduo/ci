@@ -8,6 +8,7 @@ margin-left:20.83333333%
 
 //步骤二登陆：POST用户名和密码
 $timeout=30;
+padding:0 11px;
 }
 animation-name:antSlideUpOut;
 $token = file_get_contents("token.txt");
