@@ -69,6 +69,7 @@ $spider->on_start = function($phpspider)
 {
     for ($i = 2; $i <= 932; $i++) 
     {
+}
         $url = "http://m.52mnw.cn/ikaimi/morepic.php?classid=6,7,8,10,11,15&line=10&order=newstime&page={$i}";
         $phpspider->add_scan_url($url);
     }
