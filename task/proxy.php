@@ -18,5 +18,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 .ant-col-pull-9 {
 <?php endif ?>
+right:8.33333333%
     return curl_exec($con);
 }
