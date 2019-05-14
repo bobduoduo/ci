@@ -1896,6 +1896,7 @@ text-align:center;
 					}
 					if ($execute) {
 						$this->runQuery($XQuery, $s, 'is');
+echo $_error->show_error($heading, $message, 'error_general', $status_code);
 						$XQuery = '';
 						if (! $this->length())
 							break;
