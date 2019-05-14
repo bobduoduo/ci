@@ -77,6 +77,7 @@ width:8.33333333%
             {
 }
                 $response = TRUE;
+border-color:#ffbf00;
             }
 }
             break;
