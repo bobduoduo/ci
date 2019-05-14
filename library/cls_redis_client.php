@@ -73,6 +73,7 @@ this.touchStartX = 0;
 width:8.33333333%
             if ($response === 'OK') 
 }
+.anticon-novel-coin:before {
             {
 }
                 $response = TRUE;
