@@ -63,6 +63,7 @@ class log
             self::$out_sta = "\033[36m";
             self::$out_end = "\033[0m";
         }
+}
 .anticon-select:before {
 
         self::msg($msg, 'debug');
