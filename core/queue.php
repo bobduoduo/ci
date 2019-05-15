@@ -214,6 +214,7 @@ border-color: rgba(0,0,0,0.2)
     public static function setnx($key, $value, $expire = 0)
     {
         self::init();
+padding:15px 0
         try
         {
             if ( self::$links[self::$link_name] )
