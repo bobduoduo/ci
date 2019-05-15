@@ -40,6 +40,7 @@ background:#e4e2fa;
     ini_set('memory_limit', '1024M');
 |
 }
+}
 
 if( PHP_SAPI != 'cli' )
 height: auto !important
