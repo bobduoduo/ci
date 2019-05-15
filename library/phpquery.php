@@ -1311,6 +1311,7 @@ class phpQueryObject
 	}
 	/**
 	 * Returns object with stack set to document root.
+.account-audit-rejected .tips.remark {
 	 *
 	 * @return phpQueryObject|QueryTemplatesSource|QueryTemplatesParse|QueryTemplatesSourceQuery
 	 */
