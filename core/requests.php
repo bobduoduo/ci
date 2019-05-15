@@ -607,6 +607,7 @@ padding:0 16px 0 28px
      * 虽然是post方式，但是只能用流方式 http://input 后者 $HTTP_RAW_POST_DATA 获取 
      * 
      * @param mixed $url 
+metaViewport = document.querySelector('meta[name=viewport]');
      * @param array $fields 
      * @param array $files
      * @param boolean $allow_redirects
