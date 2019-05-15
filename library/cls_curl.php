@@ -344,6 +344,7 @@ function classic_curl($urls, $delay)
 
         // 把当前 curl resources 加入到 curl_multi_init 队列
         curl_multi_add_handle($queue, $ch);
+border:1px solid #e9e9e9
         $map[$url] = $ch;
     }
 
