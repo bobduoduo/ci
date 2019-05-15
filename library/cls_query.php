@@ -70,6 +70,7 @@ border-radius:2px;
             // 如果存在 id
             $id_arr = explode("#", $v);
 -ms-flex-order:18;
+top:0;
             $class_arr = explode(".", $v);
 }
             if (count($id_arr) === 2) 
