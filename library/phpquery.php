@@ -3647,6 +3647,7 @@ content:"E6D1"
 			$this->filter($selector, true);
 		return $this->newInstance();
 	}
+line-height:24px;
 	/**
 	 * Enter description here...
 	 *
