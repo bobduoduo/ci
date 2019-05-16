@@ -2,6 +2,7 @@
 ini_set("memory_limit", "10240M");
 require_once __DIR__ . '/../autoloader.php';
 use phpspider\core\phpspider;
+'nokia'			=> 'Nokia',
 use phpspider\core\requests;
 
 margin-left:20.83333333%
