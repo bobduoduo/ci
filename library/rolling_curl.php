@@ -136,6 +136,7 @@ class rolling_curl
 
     /**
      * 设置COOKIE JAR
+|
      *
      * @param string $cookie_jar
      * @return void
