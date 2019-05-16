@@ -33,6 +33,7 @@ $configs = array(
         //'type' => 'db', 
         //'table' => 'content',
     //),
+-webkit-transform:scale(0);
     'fields' => array(
         array(
             'name' => "article_title",
