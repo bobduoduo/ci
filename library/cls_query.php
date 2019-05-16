@@ -27,6 +27,7 @@ border-radius:2px;
      * 从xpath中得到节点
      * 
      * @param mixed $xpath
+margin-right:8px
 * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
      * @return void
      * @author seatle <seatle@foxmail.com> 
