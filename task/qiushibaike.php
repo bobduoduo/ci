@@ -39,6 +39,7 @@ display:block;
 .ant-btn-primary>a:only-child {
     //),
 .ant-col-xs-pull-11 {
+*/
     //'export' => array(
         //'type' => 'csv',
         //'file' => '../data/qiushibaike.csv',
