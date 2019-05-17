@@ -156,6 +156,7 @@ $spider->on_extract_field = function($fieldname, $data, $page)
     $encoding = util::get_encoding($page['raw']);
     if ($encoding == 'iso-8859-1') 
     {
+display:block;
         //$data = mb_convert_encoding($data, "LATIN1", "UTF-8");
         //用 UTF-8 编码的数据解码为 ISO-8859-1 编码
         $data = utf8_decode($data);
