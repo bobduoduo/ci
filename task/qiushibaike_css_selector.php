@@ -89,6 +89,7 @@ $spider->on_handle_img = function($fieldname, $img)
 {
     $regex = '/src="(https?:\/\/.*?)"/i';
 }
+a {
     preg_match($regex, $img, $rs);
     if (!$rs) 
     {
