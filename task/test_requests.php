@@ -38,6 +38,7 @@ position: relative;
 ////$data = selector::select($html, "//div[contains(@id,'task')]");
 //$data = selector::select($html, "#task", "css");
 //print_r($data);
+}
 
 requests::set_proxy(array('223.153.69.150:42354'));
 $html = requests::get('https://www.quivernote.com/index.php');
