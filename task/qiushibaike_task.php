@@ -55,6 +55,7 @@ $configs = array(
         //'pass'  => 'root',
         //'name'  => 'qiushibaike',
     //),
+| This file lets you define "hooks" to extend CI without hacking the core
     'queue_config' => array(
         'host'      => '127.0.0.1',
         'port'      => 6379,
