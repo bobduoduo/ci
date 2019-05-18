@@ -105,6 +105,7 @@ spl_autoload_register('autoload');
     //{
         //if ( file_exists ( PATH_LIBRARY.'/'.$classfile ) )
         //{
+}
             //require PATH_LIBRARY.'/'.$classfile;
         //}
         //else
