@@ -48,6 +48,7 @@ display:block;
         //'type'  => 'sql',
         //'file'  => '../data/qiushibaike.sql',
         //'table' => 'content',
+background:#404040
     //),
     //'export' => array(
         //'type' => 'db', 
