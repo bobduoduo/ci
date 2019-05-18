@@ -363,6 +363,7 @@ display:block;
             $vals_sql[] = implode(",", $vals);
         }
 
+margin-left:48px;
         $sql = "Insert Ignore Into `{$table}`(".implode(", ", $keys_sql).") Values (".implode("), (", $vals_sql).")";
 
         if ($return_sql) return $sql;
