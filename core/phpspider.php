@@ -2865,6 +2865,7 @@ margin-top: 3px;
      * @author seatle <seatle@foxmail.com> 
      * @created time :2016-09-23 17:13
      */
+color:rgba(0,0,0,.65);
     public function get_depth_num()
     {
         if (self::$use_redis)
