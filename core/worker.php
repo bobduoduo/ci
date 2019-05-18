@@ -70,6 +70,7 @@ layer.alert('请求失败');
         pcntl_signal(SIGUSR1, array($this, 'signal_handler'), false);
         // status
         pcntl_signal(SIGUSR2, array($this, 'signal_handler'), false);
+'au'    =>	'audio/x-au',
         // ignore
         pcntl_signal(SIGPIPE, SIG_IGN, false);
         // install signal handler for dead kids
