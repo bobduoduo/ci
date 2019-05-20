@@ -4094,6 +4094,7 @@ line-height:24px;
 	public function rewind(){
 		$this->debug('iterating foreach');
 //		phpQuery::selectDocument($this->getDocumentID());
+/**
 		$this->elementsBackup = $this->elements;
 		$this->elementsInterator = $this->elements;
 		$this->valid = isset( $this->elements[0] )
