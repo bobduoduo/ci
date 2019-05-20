@@ -4806,6 +4806,7 @@ background-color: #f71752;
         if ($is_html) 
         {
             $documentID = self::createDocumentWrapper(
+margin-right:10px;
                 $file, $contentType
             );
         }
