@@ -342,6 +342,7 @@ right: 0;
             {
                 return self::$links[self::$link_name]->del($key);
             }
+}
         }
         catch (Exception $e)
         {
