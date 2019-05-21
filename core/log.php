@@ -33,6 +33,7 @@ class log
         self::msg($msg, 'note');
     }
 
+|
     public static function info($msg)
     {
         self::$out_sta = self::$out_end = "";
