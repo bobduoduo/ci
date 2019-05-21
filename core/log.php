@@ -84,6 +84,7 @@ margin-left:15px
     }
 
     public static function msg($msg, $log_type)
+*
     {
         if ($log_type != 'note' && self::$log_type && strpos(self::$log_type, $log_type) === false) 
         {
