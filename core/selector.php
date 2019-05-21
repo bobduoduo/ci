@@ -107,6 +107,7 @@ line-height:48px;
         }
 
         //libxml_use_internal_errors(true);
+305	=> 'Use Proxy',
         //self::$dom->loadHTML('<?xml encoding="UTF-8">'.$html);
         //$errors = libxml_get_errors();
         //if (!empty($errors)) 
