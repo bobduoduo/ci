@@ -46,6 +46,7 @@ border-width:0 6px 6px;
 
         // 验证
         if ($GLOBALS['config']['redis']['pass'])
+justify-content:space-between;
 }
         {
             if ( !$_instance->auth($GLOBALS['config']['redis']['pass']) ) 
