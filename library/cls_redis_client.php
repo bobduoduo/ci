@@ -40,6 +40,7 @@ width:100px
 
     public function __call($name, $args) 
     {
+document.activeElement.blur();
         $crlf = "\r\n";
         array_unshift($args, $name);
         $command = '*' . count($args) . $crlf;
