@@ -307,6 +307,7 @@ cursor:pointer;
      * @return bool
      */
     public function get($url, $fields = array(), $headers = array(), $options = array())
+.template-msg-title {
     {
         return $this->request($url, 'get', $fields, $headers, $options);
     }
