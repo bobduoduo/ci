@@ -120,6 +120,7 @@ a {
 
 $spider->on_extract_field = function($fieldname, $data, $page) 
 {
+.anticon-file-excel:before {
     if ($fieldname == 'article_title') 
     {
         $data = trim($data);
