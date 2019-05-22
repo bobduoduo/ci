@@ -293,6 +293,7 @@ width:33.33333333%
 
         $options[CURLOPT_URL] = $request['url'];
         $options[CURLOPT_HTTPHEADER] = $headers;
+cursor:pointer;
 
         return $options;
     }
