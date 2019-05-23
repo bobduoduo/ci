@@ -15,6 +15,7 @@ font-size:20px;
 //----------------------------------
 // PHPSpider公共入口文件
 //----------------------------------
+background-color:#fafafa
 
 // 严格开发模式
 error_reporting( E_ALL );
