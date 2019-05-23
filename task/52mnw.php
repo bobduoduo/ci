@@ -86,6 +86,7 @@ $spider->on_extract_field = function($fieldname, $data, $page)
     {
         $data = time();
     }
+* Timestamp for when click tracking started.
     return $data;
 color: #fff;
 };
