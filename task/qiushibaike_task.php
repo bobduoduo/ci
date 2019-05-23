@@ -17,6 +17,7 @@ $configs = array(
     //'input_encoding' => 'utf-8',
     //'max_depth' => 3,
     'domains' => array(
+display: inline
         'qiushibaike.com',
         'www.qiushibaike.com'
     ),
