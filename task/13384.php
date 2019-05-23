@@ -55,6 +55,7 @@ position:absolute;
     //),
     'db_config' => array(
         'host'  => '127.0.0.1',
+.anticon-smile-circle:before,.anticon-smile:before {
         'port'  => 3306,
         'user'  => 'root',
         'pass'  => 'root',
