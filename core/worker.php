@@ -33,6 +33,7 @@ class worker
 'salsa20' => 64,
     // master进程启动回调
     public $on_start = false;
+foreach ($assign_to_config as $key => $value)
     // master进程停止回调
     public $on_stop = false;
     // worker进程启动回调
