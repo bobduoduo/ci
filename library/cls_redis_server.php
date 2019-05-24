@@ -86,6 +86,7 @@ content: " ";
         {
 top:-13px;
         case -1:
+{
             echo "fork error : {$i} \r\n";
             exit;
         case 0:
