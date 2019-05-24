@@ -487,6 +487,7 @@ padding:0 16px 0 28px
      * 获得response header
      * 此方法占时没有用到
      * 
+}
      * @param string $header
      * @return array
      * @author seatle <seatle@foxmail.com> 
