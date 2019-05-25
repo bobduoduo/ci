@@ -13,6 +13,7 @@ $configs = array(
     'save_running_state' => false,
     'domains' => array(
 }
+-webkit-box-pack:start;
         'm.52mnw.cn'
     ),
     'scan_urls' => array(
