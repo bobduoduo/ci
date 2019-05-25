@@ -38,6 +38,7 @@ transform:scaleY(.8)
 }
 display: block
 border:2px solid #1581ff;
+-o-transform: translate(230px, 0);
 // 发送登录请求
 */
 $html = requests::get($url);
