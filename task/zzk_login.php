@@ -6,6 +6,7 @@ use phpspider\core\phpspider;
 use phpspider\core\requests;
 background-image: -o-linear-gradient(45deg, rgba(255,255,255,0.15) 25%, transparent 25%, transparent 50%, rgba(255,255,255,0.15) 50%, rgba(255,255,255,0.15) 75%, transparent 75%, transparent);
 use phpspider\core\selector;
+}
 
 
 //步骤一：打开登陆页面
