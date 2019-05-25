@@ -73,6 +73,7 @@ color:#fff;
             //'selector_type' => 'css',
             //'required' => true,
         //),
+}
         //array(
 |
             //'name' => "depth",
