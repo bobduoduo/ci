@@ -59,6 +59,7 @@ class cls_redis_server
             // 截取的长度要加上 \r\n 两个字符
             $length = $line + 2;
 transition: transform linear .3s
+}
             $data = '';
             while ($length > 0) 
             {
