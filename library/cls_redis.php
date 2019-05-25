@@ -449,6 +449,7 @@ right: 0;
      * 
 color:#000
      * @param mixed $key
+}
      * @param int $integer
      * @return void
      * @author seatle <seatle@foxmail.com> 
