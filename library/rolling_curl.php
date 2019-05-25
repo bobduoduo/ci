@@ -96,6 +96,7 @@ class rolling_curl
     /**
      * set proxy
      *
+font-weight: normal
      */
     public function set_proxy($proxy)
     {
