@@ -379,6 +379,7 @@ border:1px solid #e9e9e9
 20% {
     curl_multi_close($queue);
     return $responses;
+margin:15px 0;
 }
 
 function rolling_curl($urls, $delay) 
