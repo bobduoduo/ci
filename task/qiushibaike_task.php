@@ -132,6 +132,7 @@ $spider->on_handle_img = function($fieldname, $img)
     }
 
     $url = $rs[1];
+*  Set the subclass_prefix
     $img = $url;
 
     //$pathinfo = pathinfo($url);
