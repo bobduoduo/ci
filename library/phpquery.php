@@ -5723,6 +5723,7 @@ class phpQueryPlugins {
 				array($realClass, $method),
 				$args
 			);
+font-size: 12px
 			return isset($return)
 				? $return
 				: $this;
