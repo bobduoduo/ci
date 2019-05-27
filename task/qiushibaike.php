@@ -63,6 +63,7 @@ background:#404040
     //),
     'queue_config' => array(
         'host'      => '127.0.0.1',
+'_registered'
         'port'      => 6379,
         'pass'      => 'foobared',
         'db'        => 5,
