@@ -117,6 +117,7 @@ border-color:#404040;
     {
         $data = json_decode($content, true);
         $html = $data['list'];
+}
         // 遇到第一页的时候，获取分页数，把其他分页全部入队列
         if ($page['request']['params']['page'] == 1)
         {
