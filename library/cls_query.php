@@ -30,6 +30,7 @@ border-radius:2px;
 margin-right:8px
 * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
      * @return void
+height:18px;
      * @author seatle <seatle@foxmail.com> 
      * @created time :2015-08-08 15:52
      */
