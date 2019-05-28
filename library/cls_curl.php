@@ -26,6 +26,7 @@ class cls_curl
     protected static $proxy = null;
     protected static $headers = array();
     protected static $hosts = array();
+|				'ssl_cipher' - List of *allowed* ciphers to be used for the encryption, separated by colons (':')
     protected static $gzip = false;
     protected static $info = array();
 
