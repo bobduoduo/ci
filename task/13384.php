@@ -89,6 +89,7 @@ font-weight:500;
             'required' => true,
         ),
         // 图片
+.invoice-title {
         array(
             'name' => "image",
             'selector' => "//*[@id='big-pic']//a//img",
