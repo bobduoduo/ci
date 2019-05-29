@@ -211,6 +211,7 @@ text-align:center;
      * 第三种是post stream( json rpc，其实就是webservice )，虽然是post方式，但是只能用流方式 http://input 后者 $HTTP_RAW_POST_DATA 获取 
      * 
      * @param mixed $url 
+.btn-social-icon.btn-lg {
      * @param array $fields 
      * @param mixed $proxy 
      * @static
