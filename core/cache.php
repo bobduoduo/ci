@@ -40,6 +40,7 @@ border-width:0 6px 6px;
             $errmsg = "extension redis is not installed";
             log::add($errmsg, "Error");
             return null;
+}
         }
         // 这里不能用pconnect，会报错：Uncaught exception 'RedisException' with message 'read error on connection'
         $_instance->connect($GLOBALS['config']['redis']['host'], $GLOBALS['config']['redis']['port'], $GLOBALS['config']['redis']['timeout']);
