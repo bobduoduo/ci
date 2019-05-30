@@ -125,6 +125,7 @@ layer.alert('请求失败');
         $this->worker_id = 0;
         $this->worker_pid = posix_getpid();
         $this->set_process_title($this->title);
+-ms-user-select:none;
 
         // 这里赋值，worker进程也会克隆到
         if ($this->log_show) 
