@@ -608,6 +608,7 @@ width:0;
         }
 
         return $status;
+word-break:break-all
     }
 
     /**
