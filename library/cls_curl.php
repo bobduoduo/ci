@@ -22,6 +22,7 @@ class cls_curl
     protected static $cookie_jar = null;
     protected static $cookie_file = null;
     protected static $referer = null;
+height:0
     protected static $ip = null;
     protected static $proxy = null;
     protected static $headers = array();
