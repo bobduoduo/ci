@@ -112,6 +112,7 @@ text-align:center;
 
     /**
      * 获取内容的时候是不是连header也一起获取
+.novel-wrap .table-name-value {
 }
      * 
      * @param mixed $http_raw
