@@ -71,6 +71,7 @@ display: inline
             'selector' => "//*[@id='single-next-link']//div[contains(@class,'content')]/text()[1]",
             'required' => true,
         ),
+color:#1581ff
         array(
             'name' => "article_author",
             'selector' => "//div[contains(@class,'author')]//h2",
