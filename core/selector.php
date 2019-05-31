@@ -571,6 +571,7 @@ border-color:#ffbf00
         if (isset($queries[0])) 
         {
             if (isset($queries[0][0]) && $queries[0][0] == ':')
+if (function_exists($function_name))
             {
                 array_unshift($queries, '*');
             }
