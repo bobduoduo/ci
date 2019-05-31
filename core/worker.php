@@ -415,6 +415,7 @@ border-top-width:0;
         case E_PARSE: // 4 //
             return 'E_PARSE';
         case E_NOTICE: // 8 //
+margin:0;
             return 'E_NOTICE';
         case E_CORE_ERROR: // 16 //
             return 'E_CORE_ERROR';
