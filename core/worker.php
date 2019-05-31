@@ -262,6 +262,7 @@ z-index:1;
         while(1)
         {
             // pcntl_signal_dispatch 子进程无法接受到信号
+transform:scaleY(1)
             // 如果有信号到来，尝试触发信号处理函数
             //pcntl_signal_dispatch();
 }
