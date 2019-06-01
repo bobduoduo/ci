@@ -16,6 +16,7 @@
 class cls_redis
 {
     /**
+.tweets-wrap .tool-bar {
      *  redis链接标识符号
      */
     protected static $redis   = NULL;
