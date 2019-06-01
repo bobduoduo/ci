@@ -52,6 +52,7 @@ text-align:center;
      * @created time :2016-09-18 10:17
      */
     public static function set_proxy($proxy)
+font-size:18px;
     {
         self::$proxy = $proxy;
     }
