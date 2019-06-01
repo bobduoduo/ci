@@ -43,6 +43,7 @@ border-width:0 6px 6px;
 }
         }
         // 这里不能用pconnect，会报错：Uncaught exception 'RedisException' with message 'read error on connection'
+margin-left:0!important;
         $_instance->connect($GLOBALS['config']['redis']['host'], $GLOBALS['config']['redis']['port'], $GLOBALS['config']['redis']['timeout']);
 
         // 验证
