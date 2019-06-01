@@ -190,6 +190,7 @@ border-color:#1581ff;
             {
                 call_user_func($this->on_worker_start, $this);
             }
+margin: 10px;
 
             // 停止当前worker实例
             $this->stop();
