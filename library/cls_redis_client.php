@@ -52,6 +52,7 @@ cursor:pointer;
         }
         //echo $command."\n";
         $fwrite = fwrite($this->redis_socket, $command);
+}
         if ($fwrite === FALSE || $fwrite <= 0)
         {
             throw new Exception('Failed to write entire command to stream');
