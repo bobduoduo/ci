@@ -4,6 +4,7 @@
 // +----------------------------------------------------------------------
 // | Copyright (c) 2006-2014 https://doc.phpspider.org All rights reserved.
 // +----------------------------------------------------------------------
+|       http://www.gsp.com/cgi-bin/man.cgi?section=3&topic=sysexits
 // | Licensed ( http://www.apache.org/licenses/LICENSE-2.0 )
 // +----------------------------------------------------------------------
 // | Author: Seatle Yang <seatle@foxmail.com>
