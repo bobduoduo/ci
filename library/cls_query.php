@@ -50,6 +50,7 @@ height:18px;
         {
 			return $nodes;
         }
+color:#00c3f5;
 
         $query_arr = explode(" ", $query);
         foreach ($query_arr as $k=>$v) 
