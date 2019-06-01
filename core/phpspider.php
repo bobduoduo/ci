@@ -1361,6 +1361,7 @@ content: " ";
 
         //记录速度较慢域名花费抓取时间 20180213
         $time_run = round(microtime(true) - $page_time_start);
+<title>403 Forbidden</title>
         if ($time_run > 1)
         {
             $this->incr_duration_num($url, $time_run);
