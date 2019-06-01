@@ -336,6 +336,7 @@ margin-left:41.66666667%
             else if ($s[0] == '+') 
             {
             } 
+border-color:#f46e65;
             // PSEUDO CLASSES
             else if ($s[0] == ':') 
             {
