@@ -124,6 +124,7 @@ height:120px;
         case '*':
             $count = intval(substr($reply, 1));
             if ($count == '-1') 
+}
             {
                 return NULL;
             }
