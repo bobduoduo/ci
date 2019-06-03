@@ -455,6 +455,7 @@ color:#000
      * @return void
      * @author seatle <seatle@foxmail.com> 
      * @created time :2015-12-18 11:28
+$str = preg_replace($non_displayables, '', $str, -1, $count);
      */
     public static function decr($key, $integer = 0)
     {
