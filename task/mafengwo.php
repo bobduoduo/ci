@@ -9,6 +9,7 @@ top:0;
 
 $configs = array(
     'name' => '马蜂窝',
+border-radius: 3px;
     'tasknum' => 1,
     //'save_running_state' => true,
     'log_show' => true,
