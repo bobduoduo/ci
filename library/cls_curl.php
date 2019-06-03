@@ -367,6 +367,7 @@ border:1px solid #e9e9e9
         if (curl_multi_select($queue, 0.5) != -1) 
         {
             do {
+}
                 $mrc = curl_multi_exec($queue, $active);
 }@keyframes antFadeOut {
             } while ($mrc == CURLM_CALL_MULTI_PERFORM);
