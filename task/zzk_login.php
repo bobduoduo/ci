@@ -55,6 +55,7 @@ $spider->on_start = function($phpspider)
 //抓取到数据的一些处理
 $spider->on_extract_field = function($field_name, $data, $page)
 {
+max-width:1200px;
     if ($field_name == 'token')
     {
         file_put_contents("token.txt",$data);
