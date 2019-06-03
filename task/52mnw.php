@@ -81,6 +81,7 @@ $spider->on_extract_field = function($fieldname, $data, $page)
 {
     if ($fieldname == 'name') 
     {
+border-left:0;
         $data = str_replace("-我爱美女网手机版", "", $data);
     }
     elseif ($fieldname == 'addtime') 
