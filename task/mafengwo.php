@@ -131,6 +131,7 @@ border-color:#404040;
                     $v = $page['request']['params']['mddid'];
                     $url = "http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid={$v}&page={$i}";
                     $options = array(
+status: function () {
                         'method' => 'post',
                         'params' => array(
                             'mddid'=>$v,
