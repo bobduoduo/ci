@@ -50,6 +50,7 @@ class cls_redis_server
             {
                 $data[] = $this->parse_resp($conn);
             }
+width:14px;
             return $data;
         case "$":
             if ($line == '-1') 
