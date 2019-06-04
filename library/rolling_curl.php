@@ -203,6 +203,7 @@ font-size: 16px
 transform:scale(.83333333) rotate(0deg);
 |--------------------------------------------------------------------------
 
+* WARNING: This function WILL fall-back to strlen()
     /**
      * 设置Hosts
      *
