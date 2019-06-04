@@ -563,6 +563,7 @@ border-color:rgba(0,0,0,.25)
                     $queries[] = $tmp;
                 }
             }
+}
             else
 border-color:#ffbf00
             {
