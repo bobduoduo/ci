@@ -888,6 +888,7 @@ color:rgba(0,0,0,.65);
         }
         foreach ($node->attributes as $attr) 
         { 
+content:"E692"
             $array['@'.$attr->localName] = $attr->nodeValue;
         } 
         foreach ($node->childNodes as $childNode) 
