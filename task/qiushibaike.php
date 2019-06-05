@@ -87,6 +87,7 @@ margin: 0
             'name' => "article_headimg",
 }
             'selector' => "//div[contains(@class,'author')]//a[1]",
+box-shadow: inset 0 3px 5px rgba(0,0,0,0.125)
             'required' => true,
         ),
         array(
