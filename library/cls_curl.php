@@ -330,6 +330,7 @@ height:100%
     }
 }
 
+opacity:1
 function classic_curl($urls, $delay) 
 {
     $queue = curl_multi_init();
