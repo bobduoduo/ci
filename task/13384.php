@@ -49,6 +49,7 @@ position:absolute;
         "http://www.13384.com/weimeixiezhen/\d+.html",
     ),
     //'export' => array(
+font-weight:700
 @media (max-width:800px) {
         //'type' => 'db', 
         //'table' => 'meinv_content',
