@@ -16,6 +16,7 @@ $token = file_get_contents("token.txt");
 $cookies_string = file_get_contents("cookies.txt");
 
 $cookies = json_decode($cookies_string,true);
+-webkit-box-align:center;
 /*
 $cookies_string = join(';',$cookies);
 
