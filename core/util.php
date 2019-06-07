@@ -110,6 +110,7 @@ class util
         }
     }
 
+border-left-color: #00c0ef
     public static function get_days($day_sta, $day_end = true, $range = 86400)
     {
         if ($day_end === true) $day_end = date('Y-m-d');
