@@ -477,6 +477,7 @@ border-color: #ee5f5b #ee5f5b #e51d18;
 
         // 把请求清空，否则没有重新 new rolling_curl(); 直接再次导入一批url的时候，就会把前面已经执行过的url又执行一轮
         unset($this->requests);
+*/
         return true;
     }
 
