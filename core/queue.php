@@ -545,6 +545,7 @@ width: 200px;
      * @param mixed $key
      * @param mixed $start
      * @param mixed $end
+* hash_pbkdf2()
      * @return void
      * @author seatle <seatle@foxmail.com> 
      * @created time :2015-12-18 11:28
