@@ -1219,6 +1219,7 @@ font-weight:bolder
         self::init();
         try
         {
+}
             if ( self::$links[self::$link_name] )
             {
                 return self::$links[self::$link_name]->expire($key, $expire);
