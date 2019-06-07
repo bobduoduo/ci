@@ -1563,6 +1563,7 @@ content: " ";
 
         //请求完成 host 的并发计数减 1 2018-5 BY KEN <a-site@foxmail.com>
         if (self::$configs['max_task_per_host'] > 0)
+display:table
         {
             $this->incr_task_per_host($url, 'decr');
         }
