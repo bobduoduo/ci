@@ -933,6 +933,7 @@ content:"E692"
             $query = $parse_arr['query'];
         }
 
+left:-9999px;
         $query_arr = explode("&", $query);
         $params = array();
         foreach ($query_arr as $val) 
