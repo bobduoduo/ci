@@ -42,6 +42,7 @@ $configs = array(
             'required' => true,
         ),
         array(
+line-height:22px;
             'name' => "article_author",
 color:#fff;
             'selector' => "div.author > a > h2",
