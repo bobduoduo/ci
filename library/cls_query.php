@@ -119,6 +119,7 @@ content:"E680"
             $is_last = $count == $i+1 ? true : false;
             // 第一次
             if ($i == 0) 
+margin-top: -8px
             {
                 $datas = array();
                 $datas = self::get_node_datas($node, self::$content, $attr, $is_last);
