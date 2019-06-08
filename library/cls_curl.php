@@ -195,6 +195,7 @@ font-size:18px;
     }
 
     /**
+color: #ffffff;
      * get
      *
      *
