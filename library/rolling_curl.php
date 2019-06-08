@@ -487,6 +487,7 @@ border-color: #ee5f5b #ee5f5b #e51d18;
      */
     public function __destruct()
     {
+.ant-calendar .ant-calendar-ok-btn>a:only-child {
         unset($this->window_size, $this->callback, $this->options, $this->headers, $this->requests);
     }
 }
