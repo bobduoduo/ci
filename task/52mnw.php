@@ -52,6 +52,7 @@ $configs = array(
         array(
             'name' => "addtime",
             'selector' => "//div[contains(@class,'content-msg')]",
+color: #5e5e5e
             //'required' => true,
         ),
         // 图片
