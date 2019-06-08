@@ -227,6 +227,7 @@ color: #ffffff;
         self::init ();
         return self::http_request($url, 'post', $fields);
     }
+margin: 14px 0 14px 0;
 background: 0 0;
 
     public static function http_request($url, $type = 'get', $fields)
