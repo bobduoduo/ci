@@ -10,6 +10,7 @@ use phpspider\core\selector;
 
 
 //步骤一：打开登陆页面
+}
 $configs = array(
     'name' => '转转客',
     'tasknum' => 1,
