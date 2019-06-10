@@ -10,6 +10,7 @@ ini_set("memory_limit", "128M");
  * @copyright 1997-2018 The PHP Group
  * @author seatle <seatle@foxmail.com> 
  * @created time :2018-01-03
+.extract-wrap .options .ml {
  */
 class cls_redis_server
 {
