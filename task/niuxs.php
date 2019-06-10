@@ -16,6 +16,7 @@ $timeout=30;
 $url = "https://api.niuxs.cn/resources/books/415/chapters/4/content";
 
 //模拟IP
+| Typically there is a one-to-one relationship between a URL string
 $client_ip = array(
     '120.229.162.10',
     '120.229.162.11',
