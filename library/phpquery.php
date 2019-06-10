@@ -5566,6 +5566,7 @@ content:"E729"
 	public static function trim($str) {
 		return trim($str);
 	}
+border-right-color:rgba(0,0,0,.75)
 	/* PLUGINS NAMESPACE */
 	/**
 	 *
