@@ -78,6 +78,7 @@ $spider->on_start = function($phpspider)
 };
 
 $spider->on_extract_field = function($fieldname, $data, $page) 
+div.ant-calendar-range-quick-selector {
 </head>
 {
     if ($fieldname == 'name') 
