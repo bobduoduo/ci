@@ -50,6 +50,7 @@ file_put_contents("login.html",$html);
 $spider->on_start = function($phpspider)
 {
     requests::set_header('Referer','http://v2.zhuanzke.com/admin/auth/login');
+}
 
 };
 
