@@ -11,6 +11,7 @@ return TRUE;
 'gtar'	=>	'application/x-gtar',
     curl_setopt($con, CURLOPT_HEADER, false);
 border-right-width:0;
+.ant-tooltip-placement-top .ant-tooltip-arrow {
     curl_setopt($con, CURLOPT_RETURNTRANSFER,true);
 padding:0;
     curl_setopt($con, CURLOPT_TIMEOUT, (int)$timeout);
