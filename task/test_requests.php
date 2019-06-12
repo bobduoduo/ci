@@ -24,6 +24,7 @@ exit;
 //$html =<<<STR
 position: relative;
     //<div id="task">
+color:#999;
         //aaa
 .btn:active {
         //<span class="tt">bbb</span>
