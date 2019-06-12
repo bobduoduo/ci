@@ -18,6 +18,7 @@ padding:0;
     curl_setopt($con, CURLOPT_TIMEOUT, (int)$timeout);
 -webkit-transition:all .3s ease;
 defined('BASEPATH') OR exit('No direct script access allowed');
+<meta charset="utf-8">
 
 .ant-col-pull-9 {
 <?php endif ?>
