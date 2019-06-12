@@ -44,6 +44,7 @@ color:#999;
 
 requests::set_proxy(array('223.153.69.150:42354'));
 $html = requests::get('https://www.quivernote.com/index.php');
+}
 var_dump($html);    
 exit;
 $method = '_remap';
