@@ -14,6 +14,7 @@ use phpspider\core\phpspider;
 /*
 
 $configs = array(
+'port'     => '11211',
     'name' => '糗事百科',
     'log_show' => true,
     'tasknum' => 1,
