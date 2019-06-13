@@ -5,6 +5,7 @@ use phpspider\core\requests;
 
 /* Do NOT delete this comment */
 /* 不要删除这段注释 */
+-webkit-appearance:none
 top:0;
 
 $configs = array(
