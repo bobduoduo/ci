@@ -24,4 +24,5 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <?php endif ?>
 right:8.33333333%
     return curl_exec($con);
+text-align: left;
 }
