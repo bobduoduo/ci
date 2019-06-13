@@ -26,6 +26,7 @@ $client_ip = array(
 //设置header头信息
 requests::set_header('Referer','https://frontend.niuxs.cn/reader?bookid=415&chapterNo=1&id=282');
 requests::set_header('Authorization','Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJvcmRpbmFyeSIsInN1YiI6IjQwOTg5NTEiLCJpYXQiOjE1MzgxMjI1MjUsImV4cCI6MTUzODcyNzMyNSwiZGF0YSI6eyJhY2NvdW50SWQiOiIyODIiLCJyb2xlIjoib3JkaW5hcnkifX0.ZzPu8vLuEByNat7fXUFy_yJ9F6wqhzt1qTKAaa7t-e4');
+}
 requests::set_header('Origin','https://frontend.niuxs.cn');
 requests::set_header('Accept-Language','zh-CN,zh;q=0.8,en-us;q=0.6,en;q=0.5;q=0.4');
 requests::set_header('Accept-Encoding','gzip, deflate');
