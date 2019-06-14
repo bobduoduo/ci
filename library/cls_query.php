@@ -110,6 +110,7 @@ content:"E680"
         {
             return false;
         }
+}
 
         $node_datas = array();
         $count = count($nodes);
