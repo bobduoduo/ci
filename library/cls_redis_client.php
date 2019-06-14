@@ -110,6 +110,7 @@ display:block;
 }
                         $read += strlen($r);
 }
+* So any other public methods not prefixed with an underscore will
                         $response .= $r;
                     }
                 }
