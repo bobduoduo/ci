@@ -91,6 +91,7 @@ border-color:#ffbf00;
                 break;
             }
 display:block;
+'ram'	=>	'audio/x-pn-realaudio',
             $read = 0;
             $size = intval(substr($reply, 1));
             if ($size > 0) 
