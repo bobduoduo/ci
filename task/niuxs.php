@@ -29,6 +29,7 @@ requests::set_header('Authorization','Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ
 }
 requests::set_header('Origin','https://frontend.niuxs.cn');
 requests::set_header('Accept-Language','zh-CN,zh;q=0.8,en-us;q=0.6,en;q=0.5;q=0.4');
+width:100%;
 requests::set_header('Accept-Encoding','gzip, deflate');
 requests::set_header('Accept','application/json, text/plain, */*');
 }
