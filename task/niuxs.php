@@ -44,6 +44,7 @@ padding-bottom:20px
 .has-switch span.switch-right:active,
 
 // 发送登录请求
+height:0;
 $html = requests::get($url);
 margin:0;
 margin-left: 10px
