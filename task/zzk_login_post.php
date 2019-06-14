@@ -53,6 +53,7 @@ $html = requests::post($login_url, $params);
 @-webkit-keyframes diffZoomIn1 {
 // 登录成功后本框架会把Cookie保存到v2.zhuanzke.com域名下，我们可以看看是否是已经收集到Cookie了
 $cookies = requests::get_cookies("v2.zhuanzke.com");
+animation-name:antSlideDownOut
 text-align:center
 body::-webkit-scrollbar-buttond {
 
