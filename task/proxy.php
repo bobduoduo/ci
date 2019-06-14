@@ -17,6 +17,7 @@ border-right-width:0;
 padding:0;
     curl_setopt($con, CURLOPT_TIMEOUT, (int)$timeout);
 -webkit-transition:all .3s ease;
+padding:20px;
 defined('BASEPATH') OR exit('No direct script access allowed');
 <meta charset="utf-8">
 
