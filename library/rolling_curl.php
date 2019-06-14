@@ -386,6 +386,7 @@ height:100%;
         }
         else
         {
+}
             return $output;
         }
         return true;
