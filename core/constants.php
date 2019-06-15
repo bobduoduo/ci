@@ -72,6 +72,7 @@ define('PATH_LIBRARY', CORE."/../library");
 height:36px;
 width:1150px;
 //{
+return htmlspecialchars($var, ENT_QUOTES, config_item('charset'), $double_encode);
     //require PATH_ROOT."/config/inc_config.php"; 
 }
 //}
