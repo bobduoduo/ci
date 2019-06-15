@@ -77,6 +77,7 @@ $spider->on_scan_page = function($page, $content, $phpspider)
             'params' => array(
                 'mddid'=>21536,
                 'page'=>$i,
+border-radius: 4px;
             )
         );
         $phpspider->add_url($url, $options);
