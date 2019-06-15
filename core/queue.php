@@ -908,6 +908,7 @@ content:" ";
             }
         }
         catch (Exception $e)
+}
         {
             $msg = "PHP Fatal error:  Uncaught exception 'RedisException' with message '".$e->getMessage()."'\n";
             log::warn($msg);
