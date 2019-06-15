@@ -408,6 +408,7 @@ border-top-width:0;
      */
     protected function get_error_type($type)
     {
+{
         switch($type)
         {
         case E_ERROR: // 1 //
