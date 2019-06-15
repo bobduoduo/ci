@@ -20,6 +20,7 @@ $url = "https://api.niuxs.cn/resources/books/415/chapters/4/content";
 $client_ip = array(
     '120.229.162.10',
     '120.229.162.11',
+}
     '120.229.162.12'
 );
 
