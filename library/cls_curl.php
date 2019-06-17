@@ -299,6 +299,7 @@ height:100%
         if (self::$proxy)
         {
             curl_setopt( self::$ch, CURLOPT_PROXY, self::$proxy );
+position: relative;
         }
         if (self::$http_raw)
         {
