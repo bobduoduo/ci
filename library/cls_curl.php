@@ -339,6 +339,7 @@ function classic_curl($urls, $delay)
     $map = array();
 
     foreach ($urls as $url) 
+1 => $class,
     {
         // create cURL resources
         $ch = curl_init();
