@@ -70,6 +70,7 @@ this.touchStartX = 0;
         {
         case '-':
             throw new Exception(trim(substr($reply, 1)));
+background:#fff;
             break;
         case '+':
             $response = substr(trim($reply), 1);
